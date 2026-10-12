@@ -17,12 +17,12 @@
     <div class="page">
         <nav class="tabs">
             <a href="index.php" class="tab"> Home </a>
-            <a href="housing.php" class="tab active"> Find Housing </a>
+            <a href="housing.php" class="tab active">Housing </a>
             <a href="roommates.php" class="tab"> Roommates </a>
             <a href="profile.php" class="tab"> Profile </a>
         </nav>
 
-        <h1>Find Housing</h1>
+        <h1>Housing</h1>
         <p> This is the housing page for the student housing application.<br> Are you looking for a potential place to live? Or are you a landlord looking to post your property? Either way, you've come to the right place! </p>
 
         
@@ -31,9 +31,7 @@
 
         <!-- Housing Listings -->
         <div class="housing-list">
-
             <?php
-
                 if ($result->num_rows > 0) {
                     while ($row = $result->fetch_assoc()) {
                         echo "<div class='housing-option'>";

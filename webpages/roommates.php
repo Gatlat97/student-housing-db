@@ -10,13 +10,13 @@
         <nav class="tabs">
             <a href="index.php" class="tab">Home</a>
 
-            <a href="housing.php" class="tab">Find Housing</a>
+            <a href="housing.php" class="tab">Housing</a>
 
             <a href="roommates.php" class="tab active">Roommates</a>
 
             <a href="profile.php" class="tab">Profile</a>
         </nav>
         <h1>Find Roommates</h1>
-        <p>This is the roommates page for the student housing application.</p>
+        <p>This is the roommates page where you will be able to find roommates based on their description of their every day life.</p>
     </div></body>
 </html>
