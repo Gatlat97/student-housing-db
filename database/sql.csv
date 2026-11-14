@@ -1,0 +1,138 @@
+CREATE TABLE students (
+    student_id INT PRIMARY KEY,
+    user_id INT NOT NULL,
+    university_id INT NOT NULL,
+    year VARCHAR(30),
+    major VARCHAR(100),
+    gender VARCHAR(20),
+    bio TEXT,
+
+    FOREIGN KEY (user_id) REFERENCES users(user_id),
+    FOREIGN KEY (university_id) REFERENCES universities(university_id)
+);
+
+CREATE TABLE match_requests (
+    request_id INT AUTO_INCREMENT PRIMARY KEY,
+    sender_id INT NOT NULL,
+    receiver_id INT NOT NULL,
+    status VARCHAR(20) NOT NULL DEFAULT 'pending',
+    date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+
+    FOREIGN KEY (sender_id) REFERENCES users(user_id),
+    FOREIGN KEY (receiver_id) REFERENCES users(user_id)
+);
+CREATE TABLE landlords (
+    landlord_id INT AUTO_INCREMENT PRIMARY KEY,
+    user_id INT NOT NULL,
+    phone VARCHAR(20),
+    company VARCHAR(150),
+
+    FOREIGN KEY (user_id) REFERENCES users(user_id)
+);
+CREATE TABLE listings (
+    listing_id INT AUTO_INCREMENT PRIMARY KEY,
+    landlord_id INT NOT NULL,
+    university_id INT NOT NULL,
+    title VARCHAR(150) NOT NULL,
+    price DECIMAL(10,2) NOT NULL,
+    bedrooms INT NOT NULL,
+    bathrooms DECIMAL(3,1) NOT NULL,
+    sqft INT,
+    cats_allowed BOOLEAN DEFAULT FALSE,
+    dogs_allowed BOOLEAN DEFAULT FALSE,
+    address VARCHAR(255) NOT NULL,
+    city VARCHAR(100) NOT NULL,
+    state VARCHAR(50) NOT NULL,
+    latitude DECIMAL(10,7),
+    longitude DECIMAL(10,7),
+
+    FOREIGN KEY (landlord_id) REFERENCES landlords(landlord_id),
+    FOREIGN KEY (university_id) REFERENCES universities(university_id)
+);
+CREATE TABLE listing_amenities (
+    listing_id INT NOT NULL,
+    amenity_id INT NOT NULL,
+
+    PRIMARY KEY (listing_id, amenity_id),
+
+    FOREIGN KEY (listing_id) REFERENCES listings(listing_id),
+    FOREIGN KEY (amenity_id) REFERENCES amenities(amenity_id)
+);
+CREATE TABLE amenities (
+    amenity_id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL UNIQUE
+);
+CREATE TABLE users (
+    user_id INT AUTO_INCREMENT PRIMARY KEY,
+    first_name VARCHAR(100) NOT NULL,
+    last_name VARCHAR(100) NOT NULL,
+    email VARCHAR(150) NOT NULL UNIQUE,
+    password_hash VARCHAR(255) NOT NULL,
+    role ENUM('student', 'landlord', 'admin') NOT NULL DEFAULT 'student'
+);
+CREATE TABLE universities (
+    university_id INT PRIMARY KEY,
+    name VARCHAR(150) NOT NULL,
+    city VARCHAR(100) NOT NULL,
+    state VARCHAR(50) NOT NULL,
+    zip VARCHAR(10),
+    latitude DECIMAL(10,7),
+    longitude DECIMAL(10,7),
+    enrollment INT,
+    housing_cost DECIMAL(10,2)
+);
+CREATE TABLE summary (
+    table_name VARCHAR(100) NOT NULL,
+    source VARCHAR(255),
+    type VARCHAR(100),
+    rows_before INT,
+    rows_after INT,
+    num_attributes INT,
+    attributes TEXT
+);
+CREATE TABLE reviews (
+    review_id INT AUTO_INCREMENT PRIMARY KEY,
+    student_id INT NOT NULL,
+    listing_id INT NOT NULL,
+    rating INT NOT NULL,
+    comment TEXT,
+
+    FOREIGN KEY (student_id) REFERENCES students(student_id),
+    FOREIGN KEY (listing_id) REFERENCES listings(listing_id),
+
+    CHECK (rating BETWEEN 1 AND 5)
+);
+CREATE TABLE saved_listings (
+    student_id INT NOT NULL,
+    listing_id INT NOT NULL,
+
+    PRIMARY KEY (student_id, listing_id),
+
+    FOREIGN KEY (student_id) REFERENCES students(student_id),
+    FOREIGN KEY (listing_id) REFERENCES listings(listing_id)
+);
+CREATE TABLE preferences (
+    pref_id INT AUTO_INCREMENT PRIMARY KEY,
+    student_id INT NOT NULL,
+    budget DECIMAL(10,2),
+    bedtime TIME,
+    wake_time TIME,
+    cleanliness VARCHAR(50),
+    noise VARCHAR(50),
+    smoking VARCHAR(50),
+    guests VARCHAR(50),
+    housing_type VARCHAR(100),
+    study_location VARCHAR(100),
+
+    FOREIGN KEY (student_id) REFERENCES students(student_id)
+);
+CREATE TABLE messages (
+    message_id INT AUTO_INCREMENT PRIMARY KEY,
+    sender_id INT NOT NULL,
+    receiver_id INT NOT NULL,
+    content TEXT NOT NULL,
+    timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+
+    FOREIGN KEY (sender_id) REFERENCES users(user_id),
+    FOREIGN KEY (receiver_id) REFERENCES users(user_id)
+);
