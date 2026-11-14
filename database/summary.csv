@@ -1,0 +1,13 @@
+table_name,source,type,rows_before,rows_after,num_attributes,attributes
+universities,College Scorecard,Real,6273,40,9,"university_id, name, city, state, zip, latitude, longitude, enrollment, housing_cost"
+listings,UCI Apartment for Rent Classified,Real (landlord_id generated),99492,559,15,"listing_id, landlord_id, university_id, title, price, bedrooms, bathrooms, sqft, cats_allowed, dogs_allowed, address, city, state, latitude, longitude"
+amenities,Derived from UCI amenities,Real,0,25,2,"amenity_id, name"
+listing_amenities,Derived from UCI amenities,Real,0,2351,2,"listing_id, amenity_id"
+users,Python generator,Generated,0,229,6,"user_id, first_name, last_name, email, password_hash, role"
+students,Python generator (universities are real),Generated,0,200,7,"student_id, user_id, university_id, year, major, gender, bio"
+landlords,Python generator,Generated,0,27,4,"landlord_id, user_id, phone, company"
+preferences,Python generator (budgets from real rents),Generated,0,200,11,"pref_id, student_id, budget, bedtime, wake_time, cleanliness, noise, smoking, guests, housing_type, study_location"
+match_requests,Python generator,Generated,0,355,5,"request_id, sender_id, receiver_id, status, date"
+messages,Python generator,Generated,0,468,5,"message_id, sender_id, receiver_id, content, timestamp"
+reviews,Python generator (listings are real),Generated,0,68,5,"review_id, student_id, listing_id, rating, comment"
+saved_listings,Python generator (listings are real),Generated,0,492,2,"student_id, listing_id"

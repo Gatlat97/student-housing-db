@@ -1,0 +1,201 @@
+pref_id,student_id,budget,bedtime,wake_time,cleanliness,noise,smoking,guests,housing_type,study_location
+1,1,800,02:00,11:00,4,3,0,Sometimes,Townhouse,Library
+2,2,725,00:30,08:30,4,1,0,Rarely,House,Home
+3,3,2275,02:00,11:00,4,2,0,Rarely,Townhouse,Campus
+4,4,1200,00:00,08:30,2,1,0,Often,House,Campus
+5,5,1625,22:30,07:30,5,3,0,Rarely,Any,Coffee shop
+6,6,500,02:00,11:00,1,5,0,Sometimes,Apartment,Library
+7,7,1050,23:00,08:00,2,3,0,Sometimes,House,Coffee shop
+8,8,725,02:00,11:00,3,2,0,Rarely,Any,Coffee shop
+9,9,875,02:00,11:00,4,4,0,Rarely,Apartment,Campus
+10,10,1050,23:00,08:30,1,4,0,Sometimes,House,Home
+11,11,2350,21:30,07:00,1,4,0,Sometimes,Any,Coffee shop
+12,12,1275,22:30,07:30,2,1,0,Sometimes,Townhouse,Coffee shop
+13,13,2125,02:00,11:00,3,3,0,Sometimes,Townhouse,Library
+14,14,425,01:00,09:00,3,1,0,Never,Apartment,Library
+15,15,900,21:30,06:00,3,1,0,Never,Apartment,Coffee shop
+16,16,1925,23:00,07:30,4,2,0,Sometimes,Apartment,Coffee shop
+17,17,1450,23:30,07:00,5,2,0,Rarely,Apartment,Home
+18,18,1300,22:00,06:00,1,1,0,Never,House,Home
+19,19,1950,21:30,06:00,2,2,0,Rarely,Any,Coffee shop
+20,20,575,02:00,09:00,1,1,0,Rarely,Any,Library
+21,21,1550,00:30,11:00,5,2,0,Sometimes,House,Library
+22,22,825,23:30,07:30,4,4,0,Rarely,House,Coffee shop
+23,23,1350,01:00,09:00,3,2,0,Rarely,Apartment,Home
+24,24,1400,02:00,11:00,4,4,0,Often,Townhouse,Campus
+25,25,1175,00:00,07:30,4,1,0,Rarely,Apartment,Coffee shop
+26,26,1550,23:30,08:30,5,3,0,Often,House,Coffee shop
+27,27,725,02:00,11:00,4,3,0,Rarely,Townhouse,Home
+28,28,1225,23:00,07:30,5,4,0,Often,Any,Library
+29,29,1475,00:00,07:30,2,2,0,Often,Any,Campus
+30,30,725,01:00,11:00,3,5,0,Rarely,Any,Library
+31,31,700,00:00,10:00,1,3,0,Sometimes,House,Campus
+32,32,925,22:30,06:30,4,3,0,Never,Any,Library
+33,33,625,22:00,06:00,5,2,0,Often,Apartment,Coffee shop
+34,34,1125,22:00,06:30,2,1,0,Often,Apartment,Coffee shop
+35,35,1425,02:00,09:00,5,3,0,Sometimes,Apartment,Coffee shop
+36,36,1100,22:30,08:00,4,3,0,Sometimes,Townhouse,Library
+37,37,650,01:00,11:00,3,5,0,Rarely,Townhouse,Campus
+38,38,1325,22:30,08:00,2,4,0,Often,Apartment,Campus
+39,39,1475,00:00,09:00,2,5,0,Rarely,Apartment,Home
+40,40,800,22:00,06:00,1,1,0,Sometimes,Any,Campus
+41,41,1725,22:00,06:30,5,2,0,Sometimes,Townhouse,Campus
+42,42,475,23:00,06:30,3,4,0,Rarely,House,Campus
+43,43,550,22:30,07:00,3,5,0,Sometimes,Apartment,Coffee shop
+44,44,1725,00:00,10:00,4,2,0,Rarely,Any,Campus
+45,45,725,01:00,09:00,3,5,0,Sometimes,Any,Campus
+46,46,575,23:00,08:30,1,5,0,Often,Any,Campus
+47,47,675,21:30,07:00,4,1,0,Often,House,Home
+48,48,375,23:00,07:30,2,3,0,Often,Apartment,Coffee shop
+49,49,1125,00:30,08:30,4,5,0,Sometimes,Apartment,Home
+50,50,1775,22:30,07:00,3,5,0,Often,Any,Library
+51,51,425,00:00,07:30,4,3,0,Rarely,Apartment,Coffee shop
+52,52,725,01:00,11:00,3,2,0,Sometimes,Apartment,Coffee shop
+53,53,800,22:00,07:00,5,3,0,Rarely,House,Home
+54,54,850,22:00,06:30,2,1,0,Rarely,Apartment,Library
+55,55,1500,00:00,10:00,3,4,0,Sometimes,Townhouse,Home
+56,56,1250,00:00,08:30,4,4,0,Never,Any,Home
+57,57,475,23:30,08:00,5,4,0,Often,Any,Campus
+58,58,875,00:30,10:00,1,4,1,Sometimes,House,Home
+59,59,700,23:30,07:30,4,3,0,Sometimes,Apartment,Home
+60,60,500,00:00,08:30,5,1,0,Sometimes,Townhouse,Campus
+61,61,800,22:30,06:00,4,3,0,Sometimes,Apartment,Library
+62,62,1200,23:30,08:00,4,2,1,Sometimes,Townhouse,Coffee shop
+63,63,1325,22:00,06:00,1,1,0,Never,Townhouse,Campus
+64,64,1075,22:30,06:00,2,5,0,Sometimes,Townhouse,Home
+65,65,525,01:00,11:00,1,1,0,Often,Apartment,Campus
+66,66,1175,01:00,10:00,4,3,0,Rarely,House,Library
+67,67,675,00:30,08:00,5,1,0,Sometimes,Any,Library
+68,68,650,23:30,07:00,1,4,0,Rarely,Townhouse,Home
+69,69,775,21:30,06:00,2,2,0,Sometimes,Townhouse,Coffee shop
+70,70,675,02:00,11:00,2,1,0,Sometimes,Townhouse,Coffee shop
+71,71,1300,01:00,08:30,2,1,0,Sometimes,House,Home
+72,72,475,23:00,08:30,5,2,0,Rarely,Apartment,Campus
+73,73,425,23:30,07:00,2,4,0,Often,Apartment,Campus
+74,74,600,22:00,06:00,1,3,0,Often,Townhouse,Campus
+75,75,650,00:00,08:30,2,1,0,Never,Townhouse,Home
+76,76,650,00:30,11:00,1,1,0,Often,Any,Library
+77,77,625,02:00,11:00,1,1,0,Rarely,House,Coffee shop
+78,78,1000,02:00,11:00,3,4,0,Often,Townhouse,Coffee shop
+79,79,1100,23:00,08:00,1,2,0,Sometimes,Any,Campus
+80,80,775,01:00,09:00,5,1,0,Often,House,Library
+81,81,675,21:30,06:00,5,1,0,Never,House,Home
+82,82,675,01:00,08:30,2,5,0,Rarely,House,Library
+83,83,1025,23:30,08:30,4,5,0,Often,Townhouse,Library
+84,84,675,00:30,11:00,3,3,0,Often,Any,Campus
+85,85,600,00:00,08:00,2,4,0,Never,Any,Campus
+86,86,1825,00:00,08:30,4,2,0,Sometimes,Townhouse,Home
+87,87,800,23:00,08:30,1,1,0,Sometimes,Apartment,Coffee shop
+88,88,400,23:00,08:00,5,2,0,Rarely,Any,Library
+89,89,600,01:00,10:00,5,3,1,Never,Any,Home
+90,90,1150,02:00,09:00,5,4,0,Often,House,Home
+91,91,1550,22:00,07:30,4,5,0,Rarely,Any,Home
+92,92,1200,23:00,06:30,3,2,0,Rarely,Any,Home
+93,93,425,22:00,07:00,1,5,0,Often,Apartment,Library
+94,94,450,22:00,07:00,1,3,0,Often,Any,Campus
+95,95,975,23:30,07:30,1,3,0,Sometimes,Townhouse,Home
+96,96,800,22:00,07:00,3,5,0,Sometimes,Apartment,Campus
+97,97,1350,01:00,08:30,5,4,0,Often,Townhouse,Campus
+98,98,1425,22:30,07:30,1,4,0,Often,House,Coffee shop
+99,99,1150,00:30,11:00,2,5,0,Sometimes,Apartment,Library
+100,100,1200,00:30,09:00,3,3,0,Often,Townhouse,Coffee shop
+101,101,1525,02:00,11:00,2,4,0,Sometimes,Townhouse,Library
+102,102,1525,23:30,08:30,4,2,0,Rarely,House,Campus
+103,103,1975,21:30,06:00,1,3,0,Sometimes,House,Home
+104,104,825,01:00,11:00,4,5,0,Rarely,Any,Library
+105,105,800,22:30,06:00,3,4,0,Rarely,Any,Home
+106,106,1175,22:30,06:00,5,1,0,Rarely,Any,Home
+107,107,825,00:00,07:30,3,1,0,Often,House,Campus
+108,108,700,22:00,06:00,5,2,0,Sometimes,Apartment,Campus
+109,109,975,22:30,06:30,3,1,1,Rarely,House,Home
+110,110,1325,00:00,08:00,4,2,0,Sometimes,Townhouse,Campus
+111,111,1325,23:30,08:30,2,1,1,Sometimes,House,Campus
+112,112,525,22:00,07:30,3,4,0,Rarely,Apartment,Home
+113,113,1425,23:30,07:30,3,5,0,Rarely,Townhouse,Home
+114,114,650,01:00,08:30,5,2,0,Sometimes,House,Library
+115,115,1000,22:30,07:00,3,5,0,Sometimes,Townhouse,Library
+116,116,475,01:00,09:00,4,1,0,Never,Any,Campus
+117,117,1775,23:30,07:00,2,1,0,Sometimes,Townhouse,Home
+118,118,1675,23:00,06:30,4,1,0,Sometimes,House,Campus
+119,119,1125,01:00,08:30,5,4,0,Sometimes,Any,Home
+120,120,625,00:30,11:00,3,3,0,Sometimes,Townhouse,Library
+121,121,1600,23:00,08:00,2,3,0,Sometimes,House,Library
+122,122,1400,21:30,07:00,4,2,0,Sometimes,Townhouse,Campus
+123,123,1425,00:00,08:30,1,3,0,Rarely,House,Coffee shop
+124,124,725,23:30,08:00,1,3,0,Sometimes,Any,Library
+125,125,1425,01:00,08:30,5,4,1,Rarely,House,Campus
+126,126,650,01:00,08:30,5,2,1,Often,House,Coffee shop
+127,127,900,01:00,10:00,5,1,0,Rarely,House,Campus
+128,128,675,02:00,09:00,1,1,0,Sometimes,Townhouse,Coffee shop
+129,129,1125,23:00,08:00,3,2,0,Sometimes,Townhouse,Home
+130,130,1375,21:30,06:00,5,2,0,Rarely,House,Library
+131,131,1925,23:00,08:00,5,5,0,Rarely,Any,Campus
+132,132,1725,00:30,11:00,1,5,0,Never,Any,Home
+133,133,1450,22:30,08:00,1,3,0,Sometimes,Any,Home
+134,134,800,00:30,08:30,4,1,0,Often,Apartment,Coffee shop
+135,135,300,21:30,07:00,5,1,0,Sometimes,Any,Library
+136,136,475,00:30,10:00,2,1,0,Sometimes,Any,Campus
+137,137,525,21:30,06:00,3,3,0,Never,Any,Coffee shop
+138,138,725,00:30,10:00,3,1,0,Never,Any,Campus
+139,139,2000,23:30,07:30,5,2,0,Sometimes,Apartment,Library
+140,140,600,23:00,07:30,2,4,0,Often,Townhouse,Campus
+141,141,700,00:00,09:00,3,2,0,Rarely,Apartment,Campus
+142,142,1075,01:00,10:00,4,2,1,Sometimes,Apartment,Library
+143,143,1500,22:30,07:30,1,1,0,Often,House,Campus
+144,144,675,22:30,07:30,5,4,0,Sometimes,House,Campus
+145,145,900,23:00,08:30,2,1,0,Rarely,Any,Home
+146,146,1075,23:30,08:00,4,3,1,Rarely,Any,Campus
+147,147,1100,00:00,09:00,1,3,0,Often,Townhouse,Campus
+148,148,1475,23:00,06:30,3,1,0,Rarely,Any,Library
+149,149,850,21:30,06:00,3,5,0,Rarely,Townhouse,Campus
+150,150,1100,01:00,09:00,3,3,0,Sometimes,Townhouse,Library
+151,151,425,22:30,08:00,5,2,0,Sometimes,Townhouse,Coffee shop
+152,152,600,23:30,08:00,5,5,0,Rarely,Any,Coffee shop
+153,153,1125,22:00,07:30,4,5,0,Sometimes,Apartment,Coffee shop
+154,154,850,02:00,11:00,2,5,0,Sometimes,House,Library
+155,155,550,00:00,09:00,3,4,0,Sometimes,House,Library
+156,156,975,21:30,06:00,5,2,0,Rarely,House,Home
+157,157,975,00:00,08:30,4,5,0,Never,Townhouse,Library
+158,158,925,23:00,08:30,2,2,0,Rarely,Any,Campus
+159,159,925,00:00,10:00,5,3,0,Sometimes,Apartment,Coffee shop
+160,160,750,21:30,06:00,4,5,0,Rarely,Townhouse,Library
+161,161,550,22:00,06:30,4,3,0,Sometimes,Townhouse,Campus
+162,162,1450,22:30,07:00,2,2,0,Sometimes,House,Campus
+163,163,1325,00:00,07:30,3,1,0,Sometimes,House,Home
+164,164,925,01:00,08:30,4,3,0,Sometimes,Townhouse,Campus
+165,165,1300,21:30,06:00,3,4,0,Rarely,House,Home
+166,166,925,23:00,07:30,1,1,0,Sometimes,House,Home
+167,167,550,00:00,07:30,4,1,0,Rarely,Apartment,Campus
+168,168,950,22:00,06:30,5,1,0,Sometimes,Any,Coffee shop
+169,169,700,23:30,07:30,4,2,0,Sometimes,Any,Coffee shop
+170,170,1025,01:00,11:00,5,5,0,Rarely,Apartment,Campus
+171,171,600,01:00,08:30,3,4,0,Sometimes,House,Coffee shop
+172,172,600,22:00,06:30,5,2,0,Rarely,Apartment,Library
+173,173,800,22:00,07:30,2,3,0,Never,Townhouse,Campus
+174,174,875,23:30,08:00,5,5,0,Rarely,Townhouse,Home
+175,175,550,02:00,09:00,3,1,0,Rarely,House,Home
+176,176,1625,21:30,06:00,5,4,0,Never,Apartment,Campus
+177,177,900,22:30,07:30,5,2,0,Rarely,House,Campus
+178,178,1000,00:00,09:00,2,4,1,Sometimes,Any,Campus
+179,179,925,21:30,06:00,5,1,0,Often,Apartment,Library
+180,180,550,23:30,09:00,4,4,1,Sometimes,Apartment,Library
+181,181,1250,21:30,07:00,1,5,1,Sometimes,Townhouse,Coffee shop
+182,182,1450,23:00,07:30,3,2,0,Sometimes,Any,Campus
+183,183,1025,01:00,10:00,3,4,0,Sometimes,Townhouse,Coffee shop
+184,184,425,02:00,11:00,1,3,1,Rarely,House,Campus
+185,185,900,23:30,08:00,1,4,0,Rarely,Apartment,Library
+186,186,1925,00:30,11:00,2,3,0,Never,House,Coffee shop
+187,187,1650,23:30,07:00,1,1,0,Rarely,House,Coffee shop
+188,188,1600,00:00,09:00,2,5,0,Rarely,Any,Coffee shop
+189,189,1450,22:30,07:00,5,3,0,Rarely,Any,Library
+190,190,650,00:00,07:30,5,1,0,Sometimes,Any,Home
+191,191,1800,21:30,07:00,4,1,0,Sometimes,House,Campus
+192,192,1600,01:00,08:30,5,5,0,Rarely,Any,Campus
+193,193,600,23:30,08:30,2,3,0,Sometimes,Any,Home
+194,194,575,23:30,08:30,2,4,0,Sometimes,Apartment,Campus
+195,195,1900,23:30,09:00,3,2,1,Rarely,Townhouse,Campus
+196,196,1350,22:30,06:00,1,5,0,Rarely,Townhouse,Coffee shop
+197,197,1850,22:00,06:30,1,5,0,Rarely,House,Coffee shop
+198,198,925,23:00,07:30,4,2,0,Often,House,Home
+199,199,675,23:30,09:00,4,4,0,Sometimes,House,Library
+200,200,725,02:00,11:00,3,4,0,Sometimes,Apartment,Coffee shop

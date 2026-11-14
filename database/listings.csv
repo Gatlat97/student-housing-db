@@ -1,0 +1,560 @@
+listing_id,landlord_id,university_id,title,price,bedrooms,bathrooms,sqft,cats_allowed,dogs_allowed,address,city,state,latitude,longitude
+5668615971,22,173160,Three BR 1777 10th St. Se,1424,3,1,1050,0,0,1777 10th St SE,Forest Lake,MN,45.2764,-92.9901
+5668618499,11,456959,Studio apartment 3731/3745 Technology Drive Nw,900,2,1,551,1,1,3731/3745 Technology Dr NW,Rochester,MN,44.0346,-92.468
+5668616030,23,174154,Studio apartment 5200 Annapolis Lane North,1245,2,1,530,1,1,5200 Annapolis Ln North,Plymouth,MN,45.0201,-93.4623
+5668615955,9,175005,One BR 3005 Eagandale Place,1070,1,1,800,1,1,3005 Eagandale Place,Eagan,MN,44.8461,-93.1596
+5668618472,10,456959,One BR 1225 20th Street Se,720,1,1,673,0,0,1225 20th St SE,Rochester,MN,44.0346,-92.468
+5668616074,14,173160,Two BR 390 9th Ave Sw,1274,2,1,984,0,0,390 9th Avenue SW,Forest Lake,MN,45.2764,-92.9901
+5668638523,13,413413,One BR 3535 Grand Avenue South,1295,1,1,497,1,0,3535 Grand Ave South,Minneapolis,MN,44.9855,-93.3023
+5668616077,11,173160,Three BR 957 7th Ave Sw,1338,3,1,1022,1,1,957 7th Avenue SW,Forest Lake,MN,45.2764,-92.9901
+5668616051,22,172866,Studio apartment 5800 American Blvd W,1290,2,1,536,1,1,5800 American Boulevard W,Bloomington,MN,44.8338,-93.3197
+5668609854,14,173160,Two BR 290 9th Ave Sw,1225,2,1,995,0,0,290 9th Avenue SW,Forest Lake,MN,45.2764,-92.9901
+5668635909,17,174154,One BR 5709 Rowland Rd,1295,1,1,640,1,1,5709 Rowland Road,Minnetonka,MN,44.9235,-93.4704
+5668633031,27,174020,Two BR 2187 Cypress Drive,1350,2,1,1207,1,1,2187 Cypress Dr,Woodbury,MN,44.9032,-92.9227
+5668632656,17,175005,One BR 720 S Plaza Way,1525,1,1,790,1,1,720 S Plaza Way,Mendota Heights,MN,44.8893,-93.1153
+5668625050,7,174020,One BR 260 5th St. E.,1470,1,1,687,1,1,260 5th St E,Saint Paul,MN,44.9405,-93.1027
+5668616001,12,413413,Two BR 415 Oak Grove St.,1865,2,2,979,1,1,415 Oak Grove St,Minneapolis,MN,44.9855,-93.3023
+5668633216,4,174020,One BR 99 W. California Ave. #103,935,1,1,700,1,1,99 W California Avenue #103,Saint Paul,MN,44.9405,-93.1027
+5668625017,23,174066,Two BR 950 Jefferson Commons Circle,1612,2,2,792,0,0,950 Jefferson Commons Cir,Saint Paul,MN,44.9702,-93.2071
+5668637293,5,486284,One BR 1321 Lake Drive West,1250,1,1,918,1,0,1321 Lake Dr West,Chanhassen,MN,44.8525,-93.5502
+5668634571,25,174075,One BR 2144 8th Ave NW,495,1,1,546,0,0,2144 8th Avenue NW,East Grand Forks,MN,47.9299,-97.0173
+5668625559,27,413413,One BR Hennepin Ave & Central Ave Ne,1570,1,1,700,1,1,,Minneapolis,MN,44.9855,-93.3023
+5668620355,22,174783,Two BR 825 9th Avenue S,795,2,1,958,1,0,825 9th Ave S,Saint Cloud,MN,45.5509,-94.1725
+5668616085,8,174154,One BR 6800 Cedar Lake Road,1520,1,1,747,1,1,6800 Cedar Lake Rd,Saint Louis Park,MN,44.9368,-93.3605
+5668616061,18,173160,Three BR 655 12th St. Sw,1337,3,1,1020,1,1,655 12th St SW,Forest Lake,MN,45.2764,-92.9901
+5668614318,23,174783,One BR 3600 W. St. Germain,1030,1,1,780,1,1,3600 W St Germain,Saint Cloud,MN,45.5509,-94.1725
+5668616094,14,174154,Studio apartment 1511 Utica Ave South,1490,2,1,546,1,1,1511 Utica Avenue South,Saint Louis Park,MN,44.9368,-93.3605
+5668609881,25,173160,Two BR 685 4th St. Sw,1247,2,1,1000,0,0,685 4th St SW,Forest Lake,MN,45.2764,-92.9901
+5668638727,6,174899,One BR 26 East Superior Street Unit 405,2950,1,1,1000,0,0,26 East Superior St Unit 405,Duluth,MN,46.8162,-92.1281
+5668633032,26,172866,One BR 3435 Promenade Avenue,1515,1,1,773,1,0,3435 Promenade Ave,Eagan,MN,44.8144,-93.1655
+5668640187,7,174154,One BR 633 Main Street NE,1490,1,2,980,1,1,633 Main St NE,Elk River,MN,45.3192,-93.5453
+5668618488,8,456959,One BR 1217 Eastgate Drive Se,895,1,1,685,1,1,1217 Eastgate Dr SE,Rochester,MN,44.0346,-92.468
+5668617733,27,172866,Studio apartment Hwy 494 & Hwy 100,1400,2,1,600,1,1,,Bloomington,MN,44.8338,-93.3197
+5668611673,15,174783,One BR 1531 7 Th Ave S,845,1,1,640,1,1,1531 7 Th Avenue S,Sartell,MN,45.6208,-94.2092
+5668638370,2,413413,Two BR 2817 Girard Avenue South,2945,2,2.5,1538,0,0,2817 Girard Ave South,Minneapolis,MN,44.9855,-93.3023
+5668633779,4,174075,One BR 318-408 17th Street NW,495,1,1,479,0,0,318-408 17th St NW,East Grand Forks,MN,47.9299,-97.0173
+5668616054,12,173160,Three BR 912 4th St. Sw,1317,3,1,1020,1,1,912 4th St SW,Forest Lake,MN,45.2764,-92.9901
+5668625038,11,173160,Two BR 3477 Arcade Street,1325,2,1,1050,0,0,3477 Arcade St,Vadnais Heights,MN,45.0893,-93.031
+5668640182,2,174020,Two BR 1880 Marshall Ave.,1599,2,1,767,1,0,1880 Marshall Avenue,Saint Paul,MN,44.9405,-93.1027
+5668634708,22,174020,One BR 35 Syndicate St S,1495,1,1,700,1,0,35 Syndicate St S,Saint Paul,MN,44.9405,-93.1027
+5668635492,10,413413,One BR 1006 West 24th Street,1245,1,1,566,1,0,1006 West 24th St,Minneapolis,MN,44.9855,-93.3023
+5668614317,12,174783,One BR 4010 Clearwater Rd.,855,1,1,722,0,0,4010 Clearwater Road,Saint Cloud,MN,45.5509,-94.1725
+5668638935,13,125231,One BR 6100 Summit Drive N,1129,1,1,650,0,0,6100 Summit Dr N,Brooklyn Center,MN,45.0684,-93.3317
+5668635603,8,174914,One BR 2320 Marshall Avenue,1455,1,1,643,1,1,2320 Marshall Ave,Saint Paul,MN,44.9484,-93.1976
+5668634596,24,174075,Two BR 2134 8th Ave NW,595,2,1,704,0,0,2134 8th Avenue NW,East Grand Forks,MN,47.9299,-97.0173
+5668628840,17,174154,Studio apartment Park Trails Apartments 4531 W 36 1/2 ST,919,1,1,400,0,0,,Saint Louis Park,MN,44.9368,-93.3605
+5668615904,16,174154,Studio apartment 18900 Stratford Road,956,3,1,500,1,1,18900 Stratford Rd,Minnetonka,MN,44.9235,-93.4704
+5668616103,22,174154,One BR 4800 Excelsior Blvd,1665,1,1,746,1,1,4800 Excelsior Boulevard,Saint Louis Park,MN,44.9368,-93.3605
+5668633975,3,172866,One BR 4598 Slater Road,1150,1,1,824,1,1,4598 Slater Rd,Eagan,MN,44.8144,-93.1655
+5668642139,8,125231,Three BR 6813 Grimes Pl N,1482,3,1,1193,0,0,6813 Grimes Place N,Brooklyn Center,MN,45.0684,-93.3317
+5668625028,11,174020,Two BR 751-755 Mount Curve Blvd,1100,2,1,900,1,0,751-755 Mount Curve Boulevard,Saint Paul,MN,44.9405,-93.1027
+5668618486,26,456959,Two BR 400 1st Avenue Nw,1092,2,2,1000,0,0,400 1st Ave NW,Rochester,MN,44.0346,-92.468
+5668635612,6,174154,Three BR 14200 43rd Ave N,1495,3,1.5,1200,1,1,14200 43rd Avenue N,Plymouth,MN,45.0201,-93.4623
+5668628843,24,125231,One BR Lake Pointe Apartments 3413 53rd Ave N,969,1,1,750,1,1,Lake Pointe Apartments 3413 53rd Avenue N,Brooklyn Center,MN,45.0684,-93.3317
+5668625550,18,413413,One BR Hennepin Ave & W 31st St,1750,1,1,800,1,1,,Minneapolis,MN,44.9855,-93.3023
+5668615951,4,174154,Studio apartment 5100 Wayzata Boulevard,1405,3,1,536,1,1,5100 Wayzata Blvd,Golden Valley,MN,44.9776,-93.3594
+5668615940,10,413413,Studio apartment 3036 W. Lake St.,1268,1,1,598,0,0,3036 W Lake St,Minneapolis,MN,44.9855,-93.3023
+5668642180,22,174862,One BR 2360 Commerce Blvd,1050,1,1,840,1,0,2360 Commerce Boulevard,Mound,MN,44.9379,-93.6693
+5668633209,14,174020,One BR 1829 Furness Street,1195,1,1,755,1,1,1829 Furness St,Saint Paul,MN,44.9405,-93.1027
+5668618506,2,456959,Studio apartment 12th St Sw & Hwy 52,1130,2,1,533,0,0,12th St SW  Highway 52,Rochester,MN,44.0346,-92.468
+5668615985,12,173160,Studio apartment 7600-7700 Sunwood Dr Nw,1135,2,1,609,0,1,7600-7700 Sunwood Drive NW,Ramsey,MN,45.2924,-93.4325
+5668615976,18,413413,Studio apartment 222 Hennepin Avenue S,1505,2,1,492,1,1,222 Hennepin Ave S,Minneapolis,MN,44.9855,-93.3023
+5668640872,22,172866,Two BR 5300 Vernon Avenue South,1495,2,1.5,950,1,1,5300 Vernon Ave South,Edina,MN,44.9,-93.3233
+5668628814,5,174154,One BR 2701 Brunswick Ave N.,1100,1,1,725,1,0,2701 Brunswick Avenue N,Crystal,MN,45.0317,-93.3587
+5668625010,7,413413,Studio apartment 430 Oak Grove Street,1355,2,1,600,1,1,430 Oak Grove St,Minneapolis,MN,44.9855,-93.3023
+5668642790,16,174154,One BR 2501 Nevada Ave S.#01,999,1,1,750,1,1,2501 Nevada Avenue S.#01,Saint Louis Park,MN,44.9368,-93.3605
+5668634319,22,174862,One BR 4177 Shoreline Dr,1450,1,1,850,1,0,4177 Shoreline Drive,Spring Park,MN,44.9358,-93.6328
+5668633050,14,174020,One BR 1568 Eustis Street,1375,1,1,650,0,0,1568 Eustis St,Saint Paul,MN,44.9405,-93.1027
+5668625046,26,413413,One BR 823 15th Ave Se,1325,1,1,650,1,0,823 15th Avenue SE,Minneapolis,MN,44.9855,-93.3023
+5668616043,25,486284,Studio apartment 6426 City West Parkway,1161,2,1,540,1,1,6426 City West Parkway,Eden Prairie,MN,44.8653,-93.4749
+5668615924,17,173160,One BR 4626 Wyngate Blvd,1295,1,1,669,1,1,4626 Wyngate Boulevard,Forest Lake,MN,45.2764,-92.9901
+5668615919,17,413413,Studio apartment 1212 West Lake Street,1111,2,1,540,1,1,1212 West Lake St,Minneapolis,MN,44.9855,-93.3023
+5668642850,12,174358,One BR 2725 40th Street S,900,1,1,581,1,1,2725 40th St S,Moorhead,MN,46.8901,-96.7447
+5668642370,11,174154,One BR Second Street Station 1015 2nd Street NE,1009,1,1,650,1,0,Second St Station 1015 2nd St NE,Hopkins,MN,44.937,-93.4394
+5668642118,8,174783,Three BR 5793 Mount Curve Blvd.,1700,3,2.5,2680,0,0,5793 Mount Curve Boulevard,Monticello,MN,45.3056,-93.7978
+5668641852,5,174154,Two BR Colonial Terrace Apartments 5621 Minnetonka Blvd,1329,2,1,900,1,0,Colonial Terrace Apartments 5621 Minnetonka Boulevard,Saint Louis Park,MN,44.9368,-93.3605
+5668638708,2,174783,One BR 1014/1034 E St Germain,690,1,1,740,1,0,1014/1034 E St Germain,Saint Cloud,MN,45.5509,-94.1725
+5668636586,15,413413,One BR 620 16th Street East #1-5,995,1,1,400,0,1,620 16th St East #1-5,Minneapolis,MN,44.9855,-93.3023
+5668636263,20,413413,Three BR 2407 2nd St. NE,2995,3,2.5,1575,1,1,2407 2nd St NE,Minneapolis,MN,44.9855,-93.3023
+5668635896,18,456959,One BR 1258 17th Avenue NW Suite 4,810,1,1,600,1,0,1258 17th Ave NW Suite 4,Rochester,MN,44.0346,-92.468
+5668635615,26,413413,One BR 4610 Lake St East,1365,1,1,800,0,0,4610 Lake St East,Minneapolis,MN,44.9855,-93.3023
+5668632672,3,172866,One BR 3485 Promenade Avenue,1345,1,1,619,1,1,3485 Promenade Ave,Eagan,MN,44.8144,-93.1655
+5668625034,13,413413,One BR 1800 Washington Ave. S.,1675,1,1,679,1,1,1800 Washington Avenue S,Minneapolis,MN,44.9855,-93.3023
+5668625007,25,172866,Two BR 4401 Valley View Rd,1200,2,1,945,1,0,4401 Valley View Road,Edina,MN,44.9,-93.3233
+5668620350,1,174783,One BR 720 Roberts Road,930,1,1,717,1,1,720 Roberts Rd,Sartell,MN,45.6208,-94.2092
+5668618483,15,456959,Two BR 5340 56th St Nw,954,2,2,965,0,0,5340 56th St NW,Rochester,MN,44.0346,-92.468
+5668617846,10,173142,One BR 510 Timberwolf Drive,668,1,1,710,0,0,510 Timberwolf Dr,Mankato,MN,44.1643,-94.0102
+5668616033,26,174154,One BR 15300 37th Ave. N.,1295,1,1,752,1,0,15300 37th Avenue N,Plymouth,MN,45.0201,-93.4623
+5668616019,16,172866,One BR 3475 Golfview Drive,1165,1,1,752,1,1,3475 Golfview Dr,Eagan,MN,44.8144,-93.1655
+5668616005,20,173160,One BR 8617 Edinbrook Crossing,1495,1,1,870,1,1,8617 Edinbrook Crossing,Minneapolis,MN,45.1092,-93.3286
+5668615991,23,413413,Studio apartment 465 Nicollet Mall,1409,2,1,563,1,1,465 Nicollet Mall,Minneapolis,MN,44.9855,-93.3023
+5668615934,2,413413,Two BR 2621 Lyndale Ave,2045,2,2,1086,1,1,2621 Lyndale Avenue,Minneapolis,MN,44.9855,-93.3023
+5668615912,18,173160,One BR 12664 Central Ave Ne,1329,1,1,750,1,1,12664 Central Avenue NE,Blaine,MN,45.1674,-93.2328
+5668611614,17,172866,One BR 10670 Brunswick Rd S,995,1,1,794,1,1,10670 Brunswick Road S,Bloomington,MN,44.8338,-93.3197
+5668625620,1,174154,One BR Shady Oak Rd & Excelsior Blvd,1250,1,1,800,1,1,,Minnetonka,MN,44.9235,-93.4704
+5668625539,7,174020,One BR Kellogg Blvd & Robert St N,1450,1,1,850,1,1,,Saint Paul,MN,44.9405,-93.1027
+5668617738,19,413413,Studio apartment W Lake St & Hennepin Ave,1387,2,1,560,1,1,,Minneapolis,MN,44.9855,-93.3023
+5668625544,3,174154,One BR Hwy 169 & Hwy 62,1400,1,1,750,0,1,,Minnetonka,MN,44.9235,-93.4704
+5664576650,24,413413,Studio apartment 2904 Lyndale Avenue South,1276,2,1,541,1,1,2904 Lyndale Ave South,Minneapolis,MN,44.9855,-93.3023
+5664596903,11,174358,One BR 3450 8th Ave S,745,1,1,1000,0,0,3450 8th Avenue S,Moorhead,MN,46.8901,-96.7447
+5664596605,10,173160,Two BR 1001 7th Ave SW,980,2,1,850,0,0,1001 7th Avenue SW,Forest Lake,MN,45.2764,-92.9901
+5664581362,25,173160,Two BR 1143 7th Ave SW,959,2,1,850,0,0,1143 7th Avenue SW,Forest Lake,MN,45.2764,-92.9901
+5664598040,16,413413,One BR 3701 W Lake St,989,1,1,775,0,0,3701 W Lake St,Minneapolis,MN,44.9855,-93.3023
+5664596940,17,172866,Three BR 7405 W 123rd Street,1499,3,1.5,1120,1,0,7405 W 123rd St,Apple Valley,MN,44.7466,-93.2018
+5664576584,20,413413,One BR 125 Oak Grove St,975,1,1,576,1,0,125 Oak Grove St,Minneapolis,MN,44.9855,-93.3023
+5664598513,16,413413,Two BR 2309 Lyndale Ave S,2199,2,1,916,1,1,2309 Lyndale Avenue S,Minneapolis,MN,44.9855,-93.3023
+5664579384,25,413413,One BR 2905 & 2915 Dean Parkway,1195,1,1,693,0,0,2905  2915 Dean Parkway,Minneapolis,MN,44.9855,-93.3023
+5664579369,15,413413,One BR 2226 Garfield Ave S,925,1,1,575,1,0,2226 Garfield Avenue S,Minneapolis,MN,44.9855,-93.3023
+5664576637,1,174020,One BR 85 W Thompson Ave,1145,1,1,750,1,0,85 W Thompson Avenue,West Saint Paul,MN,44.9142,-93.0954
+5664597813,22,174154,One BR 5610 Laurel Avenue,1460,1,1,982,1,1,5610 Laurel Ave,Golden Valley,MN,44.9776,-93.3594
+5664579626,14,174154,Two BR 5875 Teakwood Lane North,1599,2,1,1212,1,1,5875 Teakwood Ln North,Plymouth,MN,45.0201,-93.4623
+5664597028,24,413413,One BR 2201 Blaisdell Avenue,1350,1,1,512,1,1,2201 Blaisdell Ave,Minneapolis,MN,44.9855,-93.3023
+5664579111,16,174154,One BR Excelsior Blvd & 11th Ave S,1475,1,1,700,0,0,,Hopkins,MN,44.937,-93.4394
+5664579356,21,174020,One BR 177 E. Thompson Ave,999,1,1,660,1,1,177 E Thompson Avenue,West Saint Paul,MN,44.9142,-93.0954
+5664579042,15,174020,Studio apartment 35e & 7th St W,1248,2,1,500,0,0,35e  7th St W,Saint Paul,MN,44.9405,-93.1027
+5664595012,26,173160,Studio apartment 407 11th Ave SW,720,2,1,400,0,0,407 11th Avenue SW,Forest Lake,MN,45.2764,-92.9901
+5664579361,14,174020,Two BR 8240 #2 East Point Douglas Road,1165,2,1,958,1,1,8240 #2 East Point Douglas Rd,Cottage Grove,MN,44.8407,-92.8923
+5664579100,25,174154,One BR Cty Rd 9 & Hwy 169,1250,1,1,788,1,1,,Plymouth,MN,45.0201,-93.4623
+5664579064,11,486284,One BR Valley View Rd & Flying Cloud Dr,1500,1,1,847,1,1,,Eden Prairie,MN,44.8653,-93.4749
+5664576713,12,413413,Studio apartment 2428 Delaware St Se,1330,2,1,467,1,0,2428 Delaware St SE,Minneapolis,MN,44.9855,-93.3023
+5664576575,25,413413,One BR 3609 Grand Ave S,845,1,1,550,1,0,3609 Grand Avenue S,Minneapolis,MN,44.9855,-93.3023
+5664579114,15,413413,One BR W Lake St & Hennepin Ave,1695,1,1,800,1,1,,Minneapolis,MN,44.9855,-93.3023
+5664579092,21,174154,One BR Hwy 100 & Hwy 394,1650,1,1,725,1,1,,Saint Louis Park,MN,44.9368,-93.3605
+5664579031,17,174154,Two BR France Ave S & W Lake St,2550,2,2,1275,1,1,,Saint Louis Park,MN,44.9368,-93.3605
+5664579379,24,173160,Two BR 4890 Birch Lake Circle,1640,2,1,1207,1,1,4890 Birch Lake Cir,White Bear Lake,MN,45.0884,-92.9901
+5664597187,11,174154,Two BR 10100 Minnetonka Blvd,1350,2,1,950,0,0,10100 Minnetonka Boulevard,Minnetonka,MN,44.9235,-93.4704
+5664594634,12,174358,One BR 2745 40th Street S,850,1,1,547,1,1,2745 40th St S,Moorhead,MN,46.8901,-96.7447
+5664595021,5,486284,Three BR 13332 Parkwood Dr,1315,3,2,1066,0,0,13332 Parkwood Drive,Burnsville,MN,44.7594,-93.2817
+5664595007,13,173160,One BR 9240 University Ave NW,1025,1,1,833,0,0,9240 University Avenue NW,Coon Rapids,MN,45.1748,-93.3109
+5664579104,26,413413,One BR Lasalle Ave & S 11th St,1500,1,1,750,1,1,,Minneapolis,MN,44.9855,-93.3023
+5664579097,6,173160,One BR Hwy 10 & Thurston Ave,1200,1,1,810,1,1,,Anoka,MN,45.2835,-93.3871
+5664578660,15,174020,One BR 730 Wildwood Road,1500,1,1,722,1,1,730 Wildwood Rd,Mahtomedi,MN,45.0702,-92.9529
+5664576721,4,486284,One BR 2800 Selkirk Drive,935,1,1,798,1,1,2800 Selkirk Dr,Burnsville,MN,44.7594,-93.2817
+5664598057,26,174020,Two BR 508 FRY STREET,1289,2,1,949,0,0,508 Ferry St,Saint Paul,MN,44.9405,-93.1027
+5664597899,9,413413,Two BR 25 North 4th Street,1795,2,1,1550,1,0,25 North 4th St,Minneapolis,MN,44.9855,-93.3023
+5664592979,7,413413,Studio apartment Uptown Square Apartments 2908 Bryant Ave S,1069,1,1,450,1,0,Uptown Square Apartments 2908 Bryant Avenue S,Minneapolis,MN,44.9855,-93.3023
+5664579597,1,172866,One BR 7340 Gallagher Dr.,1250,1,1,752,1,1,7340 Gallagher Drive,Edina,MN,44.9,-93.3233
+5664579276,19,413413,Studio apartment Excelsior Blvd & W Lake St,1420,2,1,550,1,1,,Minneapolis,MN,44.9855,-93.3023
+5664579094,11,413413,Studio apartment 3rd Ave S & Washington Ave S,1550,2,1,600,1,1,3rd Avenue S  Washington Avenue S,Minneapolis,MN,44.9855,-93.3023
+5664596821,7,413413,One BR 400 N. 1st Street #305,1995,1,1,800,0,0,400 N 1st St #305,Minneapolis,MN,44.9855,-93.3023
+5664579733,5,413413,One BR 3029 22nd Ave S,1215,1,1,438,1,1,3029 22nd Avenue S,Minneapolis,MN,44.9855,-93.3023
+5664579390,19,486284,One BR 20464 Iberia Ave #101,1149,1,1,780,1,1,20464 Iberia Avenue #101,Lakeville,MN,44.6526,-93.2482
+5664579387,25,174862,One BR 4201 Sunset Drive,1885,1,1,973,1,1,4201 Sunset Dr,Spring Park,MN,44.9358,-93.6328
+5664578657,7,486284,"One BR 11185 Anderson Lakes Parkway, ,",965,1,1,700,1,0,11185 Anderson Lakes Parkway,Eden Prairie,MN,44.8653,-93.4749
+5664598464,12,174862,Four BR 3400 Bavaria Road,4500,4,4,4113,0,0,3400 Bavaria Rd,Chaska,MN,44.8119,-93.6091
+5664598334,17,413413,Four BR 2736 Humboldt Ave S,1995,4,1,2000,1,1,2736 Humboldt Avenue S,Minneapolis,MN,44.9855,-93.3023
+5664598019,17,413413,Two BR 3509 Emerson Ave S,1399,2,1,950,0,0,3509 Emerson Avenue S,Minneapolis,MN,44.9855,-93.3023
+5664596946,13,174020,One BR 219 3rd Ave,979,1,1,715,1,0,219 3rd Avenue,South Saint Paul,MN,44.8823,-93.0441
+5664595024,10,174020,Two BR 1343 Gentry Ave N,1206,2,1,1087,0,0,1343 Gentry Avenue N,Oakdale,MN,45.0073,-92.9641
+5664579365,10,413413,Studio apartment 816 Portland Avenue South,1375,2,1,496,1,1,816 Portland Ave South,Minneapolis,MN,44.9855,-93.3023
+5664579373,14,173160,One BR 730 5th Street Sw,950,1,1,730,1,1,730 5th St SW,New Brighton,MN,45.0794,-93.1872
+5664576739,5,173160,One BR 915 E. County Road D,995,1,1,728,1,0,915 E County Rd D,Vadnais Heights,MN,45.0893,-93.031
+5664576718,18,174020,Two BR 1580 Parkwood Drive,1415,2,2,1050,0,0,1580 Parkwood Dr,Woodbury,MN,44.9032,-92.9227
+5664576635,9,413413,Studio apartment 116 Oak Grove St,899,1,1,346,1,0,116 Oak Grove St,Minneapolis,MN,44.9855,-93.3023
+5664576586,2,413413,One BR 614 North 1st Street,1525,1,1,885,1,1,614 North 1st St,Minneapolis,MN,44.9855,-93.3023
+5664579084,17,413413,Studio apartment Lasalle & W Grant St,1450,2,1,540,1,1,,Minneapolis,MN,44.9855,-93.3023
+5664579028,19,174020,One BR Hwy 494 & Hwy 52,1250,1,1,790,0,0,,Inver Grove Heights,MN,44.8428,-93.0489
+5664579108,20,486284,One BR Hwy 169 & 212 - Eden Prairie,1300,1,1,744,1,1,,Eden Prairie,MN,44.8653,-93.4749
+5664579038,13,174020,One BR Edgcumber Rd & 7th St W,1275,1,1,620,1,1,,Saint Paul,MN,44.9405,-93.1027
+5664579045,27,174020,Studio apartment Snelling Ave & Hwy 94,1400,2,1,520,0,0,,Saint Paul,MN,44.9405,-93.1027
+5664579035,7,413413,Two BR W Lake St & Knox Ave S,2500,2,2,1065,1,1,,Minneapolis,MN,44.9855,-93.3023
+5659898590,4,413413,One BR 1100 Como Ave Se,1015,1,1,650,1,0,1100 Como Avenue SE,Minneapolis,MN,44.9855,-93.3023
+5659895610,16,413413,One BR Hennepin Ave & S 13th St,1450,1,1,660,1,1,,Minneapolis,MN,44.9855,-93.3023
+5659898971,10,413413,Two BR 1410 Rollins Ave Se,1595,2,1,1100,1,0,1410 Rollins Avenue SE,Minneapolis,MN,44.9855,-93.3023
+5659898953,15,173160,Two BR 19830 Forest Road N,1027,2,2,926,0,0,19830 Forest Rd N,Forest Lake,MN,45.2764,-92.9901
+5659895693,18,174154,One BR Elm Creek Blvd & 85th Ave N,1450,1,1,1024,1,1,,Maple Grove,MN,45.1207,-93.4682
+5659895536,10,174154,One BR Hwy 55 & Hwy 494,1350,1,1,785,1,1,,Plymouth,MN,45.0201,-93.4623
+5659895662,10,174020,Studio apartment Cedar St & 10th St E,1250,2,1,540,1,1,,Saint Paul,MN,44.9405,-93.1027
+5659899368,2,486284,Two BR Flying Cloud Dr & Anderson Lakes Pkwy,1600,2,2,1130,0,0,,Eden Prairie,MN,44.8653,-93.4749
+5659895666,6,413413,Studio apartment Hennepin Ave & N Washington Ave,1425,2,1,530,1,1,,Minneapolis,MN,44.9855,-93.3023
+5659895528,2,413413,One BR Broadway St Ne & Marshall St Ne,1590,1,1,720,1,1,,Minneapolis,MN,44.9855,-93.3023
+5659895652,16,174154,One BR Hwy 7 & Louisiana Ave,1295,1,1,742,1,0,,Saint Louis Park,MN,44.9368,-93.3605
+5659895617,3,172866,One BR Sibley Memorial Hwy & Blackhawk Rd,1185,1,1,720,1,1,,Eagan,MN,44.8144,-93.1655
+5659895585,11,413413,One BR N 1st St & N 4th Ave,1685,1,1,650,1,1,,Minneapolis,MN,44.9855,-93.3023
+5659895512,16,172866,One BR W 70th St & France Ave S,1475,1,1,750,1,1,,Edina,MN,44.9,-93.3233
+5659898774,6,413413,Studio apartment 700 10th Ave SE,700,1,1,290,1,0,700 10th Avenue SE,Minneapolis,MN,44.9855,-93.3023
+5659895699,3,413413,Studio apartment Washington Ave N & N 3rd Ave,1400,2,1,550,1,1,,Minneapolis,MN,44.9855,-93.3023
+5659895695,21,174154,One BR W 36th St & Hwy 100,1450,1,1,739,1,1,,Saint Louis Park,MN,44.9368,-93.3605
+5659895639,15,174020,Studio apartment E 7th St & Mounds Blvd.,1300,2,1,500,1,1,,Saint Paul,MN,44.9405,-93.1027
+5659895563,26,174020,One BR Hwy 94 & Woodbury Dr,1425,1,1,765,1,1,,Woodbury,MN,44.9032,-92.9227
+5659918483,19,174020,One BR 501 Ashland Ave,1295,1,2,800,0,0,501 Ashland Avenue,Saint Paul,MN,44.9405,-93.1027
+5659895551,7,413413,Studio apartment N 6th Ave & N 5th St,1350,2,1,530,1,1,,Minneapolis,MN,44.9855,-93.3023
+5659899325,11,413413,Studio apartment 817 12th Ave Se,945,2,1,400,1,0,817 12th Avenue SE,Minneapolis,MN,44.9855,-93.3023
+5659899123,1,413413,One BR 2300 East Franklin Ave,835,1,1,635,1,0,2300 East Franklin Avenue,Minneapolis,MN,44.9855,-93.3023
+5659895690,26,172866,One BR 35w & W Old Shakopee Rd,1200,1,1,725,1,0,35w  W Old Shakopee Road,Bloomington,MN,44.8338,-93.3197
+5659895558,20,413413,Studio apartment W 29th St & Lyndale Ave S,1400,2,1,572,1,1,,Minneapolis,MN,44.9855,-93.3023
+5659919053,16,174154,One BR 2700-2712-2727 Rhode Island Av,1050,1,1,775,0,0,2700-2712-2727 Rhode Island Avenue,Saint Louis Park,MN,44.9368,-93.3605
+5659917503,26,486284,Four BR 17595 Burl Oak Court,4500,4,5,5407,0,0,17595 Burl Oak CT,Eden Prairie,MN,44.8653,-93.4749
+5659917451,23,174154,One BR 10201 Cedar Lake Rd,999,1,1,812,0,0,10201 Cedar Lake Road,Minnetonka,MN,44.9235,-93.4704
+5659898781,24,174154,One BR 3610 Lancaster Lane,1019,1,1,700,1,0,3610 Lancaster Ln,Plymouth,MN,45.0201,-93.4623
+5659899382,24,174020,Two BR 1996 County Road D East,1025,2,1,916,0,0,1996 County Rd D East,Maplewood,MN,44.9773,-93.0391
+5659898960,9,413413,Two BR 2015 Riverside Avenue,1290,2,1,946,1,0,2015 Riverside Ave,Minneapolis,MN,44.9855,-93.3023
+5659895522,4,174020,One BR Hwy 52 & Kellogg Blvd,1400,1,1,540,0,1,,Saint Paul,MN,44.9405,-93.1027
+5659895581,26,174154,One BR Hwy 100 & Hwy 7,1450,1,1,925,1,1,,Saint Louis Park,MN,44.9368,-93.3605
+5659895519,22,174154,One BR Excelsior Blvd & France Ave,1600,1,1,900,1,1,,Saint Louis Park,MN,44.9368,-93.3605
+5659895509,25,174154,One BR Hwy 394 & Hwy 100,1730,1,1,728,1,1,,Saint Louis Park,MN,44.9368,-93.3605
+5659895659,3,174020,One BR Snelling Ave & Energy Park Dr,1395,1,1,700,1,1,,Saint Paul,MN,44.9405,-93.1027
+5659895567,5,413413,One BR S 5th St & Hennepin Ave,2100,1,1,720,1,1,,Minneapolis,MN,44.9855,-93.3023
+5659895621,1,172866,One BR Cedar Ave S & Sibley Memorial Hwy,1395,1,1,845,1,1,,Eagan,MN,44.8144,-93.1655
+5659895613,23,174154,Studio apartment Hwy 394 & Xenia Ave S,1400,2,1,526,1,1,,Golden Valley,MN,44.9776,-93.3594
+5659895578,13,174154,One BR Hopkins Crossroad & Cedar Lake Rd,1300,1,1,760,1,0,,Minnetonka,MN,44.9235,-93.4704
+5659895572,9,413413,One BR W Lake St & Dean Parkway,2450,1,1,905,1,1,,Minneapolis,MN,44.9855,-93.3023
+5659895555,17,172866,Studio apartment W 66th St & York Ave S,1500,2,1,660,1,1,,Edina,MN,44.9,-93.3233
+5659895514,5,486284,One BR Prairie Center Dr & Flying Cloud Dr,1400,1,1,876,1,0,,Eden Prairie,MN,44.8653,-93.4749
+5653557568,14,174154,Studio apartment 9201 Golden Valley Road,1474,2,1,601,1,1,9201 Golden Valley Rd,Golden Valley,MN,44.9776,-93.3594
+5653564505,6,413413,Three BR 837 15th Ave Se,2200,3,1,1000,1,0,837 15th Avenue SE,Minneapolis,MN,44.9855,-93.3023
+5653585739,9,172866,One BR 8848 Goodrich Road,1039,1,1,700,1,0,8848 Goodrich Rd,Bloomington,MN,44.8338,-93.3197
+5653584996,26,413413,One BR 829 Marshall St Ne,1395,1,1,537,1,1,829 Marshall St NE,Minneapolis,MN,44.9855,-93.3023
+5653561718,14,174154,Two BR 3601 Park Center Blvd,1895,2,2,1106,1,1,3601 Park Center Boulevard,Saint Louis Park,MN,44.9368,-93.3605
+5653561733,23,486284,One BR 1024 W Burnsville Parkway,1059,1,1,759,1,0,1024 W Burnsville Parkway,Burnsville,MN,44.7594,-93.2817
+5648141376,13,174020,Two BR 441 Lynnhurst Ave West,1249,2,1,875,0,0,441 Lynnhurst Avenue West,Saint Paul,MN,44.9405,-93.1027
+5648116443,9,413413,Studio apartment 716 Washington Ave Se,1299,2,1,450,0,0,716 Washington Avenue SE,Minneapolis,MN,44.9855,-93.3023
+5648133672,27,174154,Two BR 640 Oak Ridge Rd,1399,2,1,1015,0,0,640 Oak Ridge Road,Hopkins,MN,44.937,-93.4394
+5648115378,19,174862,Two BR 925 Airport Rd,916,2,2,924,0,0,925 Airport Road,Waconia,MN,44.8476,-93.7899
+5648108607,1,413413,Studio apartment 1405 5th Street Se,773,2,1,375,1,0,1405 5th St SE,Minneapolis,MN,44.9855,-93.3023
+5642319994,15,413413,Studio apartment 2922 Aldrich Ave S,1249,2,1,491,1,1,2922 Aldrich Avenue S,Minneapolis,MN,44.9855,-93.3023
+5642321528,19,413413,One BR 6100 Summit Dr N,1169,1,1,650,1,1,6100 Summit Drive N,Minneapolis,MN,44.9855,-93.3023
+5642321533,18,173160,One BR Direct River Drive Nw,675,1,1,250,0,0,,Coon Rapids,MN,45.1748,-93.3109
+5633585719,25,172866,Four BR 14045 Burgundy Way,2700,4,4,3123,1,1,14045 Burgundy Way,Rosemount,MN,44.7469,-93.0751
+5630240092,3,172866,Five BR 5407 Abbott Place - Abbott,6000,5,4,6300,0,0,5407 Abbott Place  Abbott,Edina,MN,44.9,-93.3233
+5490098759,26,413413,"Five BR Two BA Apartment in Uptown, Available NOW!!",1850,5,2,2100,1,1,2428 Garfield Avenue Apartment 4,Minneapolis,MN,44.9745,-93.3059
+5481054565,1,125231,Fully Remodeled Duplex Two BR/One BA (Clean)!,1350,2,1,1400,0,0,1811 Oliver Avenue N,Minneapolis,MN,44.9996,-93.2984
+5436077771,3,174020,2 BR 3 BA In Dakota MN 55075,1050,2,3,762,0,0,,South Saint Paul,MN,44.8823,-93.0441
+5420605661,17,174020,2 BR in South Saint Paul MN 55075,1050,2,1,840,0,0,,South Saint Paul,MN,44.8823,-93.0441
+5411278120,27,174020,Upper level duplex in St. Paul - immediate opening,1275,3,1,1100,0,0,,Saint Paul,MN,44.9405,-93.1027
+5420364193,15,174066,Quad On Delaware,776,2,2,806,1,1,950 Jefferson Commons Cir,Minneapolis,MN,44.9809,-93.2263
+5402374480,12,174020,1 BR 2 BA In Dakota MN 55075,930,1,2,762,0,0,,South Saint Paul,MN,44.8823,-93.0441
+5402389521,25,174783,"Gorgeous Studio Overlooking Downtown- ""Quarries""",1195,0,1,575,0,0,,Saint Cloud,MN,45.5509,-94.1725
+5430775652,26,125231,Stunning 2BD/One BA Duplex in Minneapolis Move in ready,1550,2,1,1300,0,0,1418 Fremont Avenue N  1,Minneapolis,MN,44.9996,-93.2984
+5393534778,1,174783,2bd/2 BA Upper Duplex with a Fireplace,850,2,2,900,0,0,,Saint Cloud,MN,45.5509,-94.1725
+5384451678,12,174783,2 BR Upper Unit Duplex $900.00,800,2,1,750,0,0,,Saint Cloud,MN,45.5509,-94.1725
+5384475928,23,173160,Available Now- Newer Finishes & Clean,1195,2,1,832,0,0,,Circle Pines,MN,45.1798,-93.1322
+5379204803,11,174020,Phalen Village,679,1,1,600,0,0,1511 Westminster St,Saint Paul,MN,44.9442,-93.0059
+5396240629,13,174783,"Gorgeous Studio Overlooking Downtown- ""Quarries""",1095,0,1,575,0,0,523 W Saint Germain St  Studio,Saint Cloud,MN,45.5336,-94.2098
+5359486559,22,413413,The Secombe Apartments,915,1,1,645,1,1,306 Oak Grove St,Minneapolis,MN,44.9726,-93.2859
+5359486562,11,413413,316 On the the Park,995,1,1,500,1,0,316 Oak Grove St,Minneapolis,MN,44.9726,-93.2859
+5356080347,13,174154,1328 Idaho,1200,1,1,750,1,0,1328 Idaho Avene South,Saint Louis Park,MN,44.953,-93.3848
+5353823052,22,174491,One BR Apartment,840,1,1,825,1,0,3969 5th St NE,Columbia Heights,MN,45.0511,-93.2444
+5367908125,13,174862,Available Now!!! Lake Minnetonka Views,980,1,1,750,1,0,2450 Island Dr Apartment 210,Spring Park,MN,44.9358,-93.6328
+5297717471,25,413413,NE Minneapolis - Three BR in Duplex (minneapolis) $1795 3bd 1090ft 2,1795,3,2,1090,0,0,2206 Arthur NE St,Minneapolis,MN,44.9855,-93.3023
+5240164352,8,173160,Gateway Green Apartments,1095,1,1,669,0,0,4626 Wyngate Boulevard,Forest Lake,MN,45.2724,-93.0117
+5200184858,21,173142,River Bluff Apartmetns,850,2,1,776,1,1,405 N 5th St,Mankato,MN,44.1587,-93.9981
+5168200637,19,173902,1 BR In St Paul Southwest,930,1,1,720,1,1,,Saint Paul,MN,44.8935,-93.1084
+5161837971,3,413413,"DISCOUNTED, PRICE NEOGOTIABLE* Edina Apartment (7201 York Ave S, Edina",2500,3,2,1520,0,0,7201 York Avenue S,Minneapolis,MN,44.9855,-93.3023
+5121984919,12,172866,The Best of the Best in the City of St Paul! Save Big!,2375,3,2,1553,1,1,,Saint Paul,MN,44.8046,-93.1967
+5121981830,24,174020,"Great Central Location One BR, One BA",1125,1,1,768,1,1,,Saint Paul,MN,44.9408,-93.0065
+5121982198,13,174020,Average Rent $967 a month - That's a STEAL. Pet OK!,967,1,1,768,1,1,,Saint Paul,MN,44.9408,-93.0065
+5121992586,27,174020,Pet Friendly 1+1 Apartment in Saint Paul,1029,1,1,742,0,0,,Saint Paul,MN,44.9053,-92.9233
+5121980753,15,173902,"Move-in condition, Two BR One BA",1125,2,1,950,1,1,,Saint Paul,MN,44.8935,-93.1084
+5121980490,9,173902,Now accepting applications for!,1485,2,1.5,964,0,0,,Saint Paul,MN,44.8935,-93.1084
+5121979114,27,174020,Apartment in great location,1579,2,2,1227,1,1,,Saint Paul,MN,45.0001,-93.0831
+5121973087,8,173665,Saint Paul Luxurious 1 + 1. Single Car Garage!,1634,1,1,832,0,0,,Saint Paul,MN,44.9661,-93.1965
+5121996003,2,173160,One BR Apartment - Shoreview Grand is the perfect to live. Pet OK!,1165,1,1,750,1,1,,Saint Paul,MN,45.08,-93.1408
+5121972339,4,173665,"Bright St Paul, One BR, One BA for rent",960,1,1,700,1,1,,Saint Paul,MN,44.9949,-93.1812
+5121955254,27,173328,Two BR Apartment - How about an onsite salon Or. Single Car Garage!,1161,2,2,1200,1,1,,Saint Paul,MN,44.9331,-93.1214
+5121954694,18,173328,One BR - Whether you choose V2 or Victoria Park Apartments.,1640,1,1,935,1,1,,Saint Paul,MN,44.9331,-93.1214
+5121951560,26,174020,Apartment in great location,1220,1,1,581,1,0,,Saint Paul,MN,44.9701,-93.0821
+5121997137,7,173160,Beautiful St Paul Apartment for rent,1080,1,1,750,1,1,,Saint Paul,MN,45.08,-93.1408
+5121979324,17,174020,Welcome to LaBlanche Apartments. Single Car Garage!,895,1,1,775,0,0,,Saint Paul,MN,45.0001,-93.0831
+5121970176,26,173160,"Two BR, One BA, safe neighborhood",900,2,1,925,0,0,,Saint Paul,MN,45.0794,-93.1872
+5121954458,12,174020,"$1,205 / One BR - Great Deal. MUST SEE!",1205,1,1,680,1,1,,Saint Paul,MN,44.9701,-93.0821
+5121950224,1,174020,"Average Rent $1,140 a month - That's a STEAL. Parking Available!",1140,2,1,500,1,1,,Saint Paul,MN,44.9701,-93.0821
+5121941035,7,174020,Welcome to Riverbend Apartments.,690,1,1,675,0,0,,Hastings,MN,44.7307,-92.8516
+5121976910,1,174020,St Paul Value. Cat OK!,1722,3,2,1361,1,1,,Saint Paul,MN,45.0001,-93.0831
+5121967476,3,174020,Welcome to the premier Markham in Maplewood. Single Car Garage!,1189,1,1,670,0,0,,Saint Paul,MN,45.0143,-93.0263
+5121966880,13,173665,1 Month Free Rent on 1 & Two BR Apartments!,1425,1,1,1090,0,0,,Saint Paul,MN,44.9809,-93.1765
+5121966872,18,173665,"Apartment only for $1,405/mo. You Can Stop Looking Now!",1405,2,1,898,0,0,,Saint Paul,MN,44.9809,-93.1765
+5121945982,24,175005,"Three BR Apartment - At Greystone Heights you get a one-level, flexible.",1525,3,2,1303,1,1,,Inver Grove Heights,MN,44.8397,-93.0769
+5121941709,25,486284,"Apartment in quiet area, spacious with big kitchen",1690,2,2,1100,1,0,,Lakeville,MN,44.6526,-93.2482
+5121939936,24,173160,"Move-in condition, Three BR One BA. Single Car Garage!",1348,3,1,1138,0,0,,Forest Lake,MN,45.2764,-92.9901
+5121997244,12,173160,"1,050 sq. ft. - come and see this one.",1320,2,1,1050,1,1,,Saint Paul,MN,45.08,-93.1408
+5121989957,6,172866,Studio - Located in the heart of everything has to offer.,1320,1,1,770,0,0,,Saint Paul,MN,44.7466,-93.2018
+5121989892,25,172866,Two BR Apartment - Large & Bright. Pet OK!,1755,2,2,1221,1,1,,Saint Paul,MN,44.7466,-93.2018
+5121983872,12,175005,Two BR - NEWLY REMODELED HOMES Lexington Heights Apartments.,1450,2,1.5,1221,0,0,,Saint Paul,MN,44.8738,-93.1407
+5121976256,17,175005,Beautiful St Paul Apartment for rent,615,0,1,300,1,0,,Saint Paul,MN,44.9126,-93.1746
+5121966611,4,174020,Apartment in prime location,1061,2,1,419,0,0,,Saint Paul,MN,44.9335,-93.0834
+5121951965,7,174020,One BR Apartment - Large & Bright,1407,1,1,683,1,1,,Saint Paul,MN,44.9701,-93.0821
+5121951496,20,174020,Beautiful St Paul Apartment for rent. Subterranean parking!,1115,2,1,480,1,1,,Saint Paul,MN,44.9701,-93.0821
+5121949155,10,174020,Entire Community Newly Remodeled.,1330,1,1.5,720,0,0,,Saint Paul,MN,44.9701,-93.0821
+5121940171,26,173160,"Three BR - Welcome to Mill Pond II & III Apartment in Forest Lake, Minnesota.",1330,3,1,1140,0,0,,Forest Lake,MN,45.2764,-92.9901
+5121995658,3,173160,"Apartment in quiet area, spacious with big kitchen. Parking Available!",1010,2,1,850,0,0,,Saint Paul,MN,45.08,-93.1408
+5121989210,18,175005,"Average Rent $1,330 a month - That's a STEAL. Pet OK!",1330,2,1,952,1,1,,Saint Paul,MN,44.8077,-93.1411
+5121954936,26,173328,"One BR, One BA, safe neighborhood",1525,1,1,697,1,1,,Saint Paul,MN,44.9331,-93.1214
+5121948989,11,174020,Two BR Apartment in St Paul,2285,2,2,1467,0,0,,Saint Paul,MN,44.9701,-93.0821
+5121948349,25,174020,Say hello to downtown. Cat OK!,1667,2,2,1002,1,0,,Saint Paul,MN,44.9701,-93.0821
+5121945223,7,172866,One BR Apartment - With renovated loft-like floor plans. Single Car Garage!,718,1,1,708,0,0,,Rosemount,MN,44.7469,-93.0751
+5121989296,5,172866,St Paul Luxurious 3 + 2,1930,3,2,1383,0,0,,Saint Paul,MN,44.7466,-93.2018
+5121977772,27,174020,Forest Apartments in. Subterranean parking!,1100,2,1,892,0,0,,Saint Paul,MN,45.0001,-93.0831
+5121968653,7,173160,Two BR - Apartments is Glen Oaks. Parking Available!,1554,2,2,1295,0,0,,Saint Paul,MN,45.0941,-93.0017
+5121940123,18,173160,Forest Lake Luxurious 3 + 1,1137,3,1,1045,0,0,,Forest Lake,MN,45.2764,-92.9901
+5121976290,19,175005,Tower apartments is Ford.,895,1,1,575,0,0,,Saint Paul,MN,44.9126,-93.1746
+5121957379,11,173328,Saint Paul Value!,1222,1,1,540,1,1,,Saint Paul,MN,44.9331,-93.1214
+5121970159,27,173160,"Bright St Paul, One BR, One BA for rent. $875/mo",875,1,1,725,0,0,,Saint Paul,MN,45.0794,-93.1872
+5121967718,9,174020,"Move-in condition, Two BR One BA",1055,2,1,958,0,0,,Saint Paul,MN,45.0143,-93.0263
+5121962133,20,173328,John Snell Apartments is Snelling.,995,2,1.5,914,0,0,,Saint Paul,MN,44.9563,-93.1594
+5121952794,12,174020,Apartment in prime location,1417,1,1,750,0,0,,Saint Paul,MN,44.9701,-93.0821
+5121994087,13,173160,St Paul Value!,1255,1,1,532,0,0,,Saint Paul,MN,45.08,-93.1408
+5121993559,8,173160,St Paul - in a great area. Dog OK!,1750,2,1.5,965,1,1,,Saint Paul,MN,45.08,-93.1408
+5121984673,11,175005,"Welcome to Woodridge, Eagan's most ideal apartment community.",1035,1,1,824,1,1,,Saint Paul,MN,44.8475,-93.1496
+5121982701,18,174020,Average Rent $990 a month - That's a STEAL!,990,1,1,708,1,1,,Saint Paul,MN,44.9408,-93.0065
+5121974492,21,173665,"Welcome to, luxurious apartments and townhomes!",1887,2,2.5,1430,1,1,,Saint Paul,MN,44.9661,-93.1965
+5121972491,17,173665,"$1,000 / One BR - Great Deal. MUST SEE!",1000,1,1,750,1,1,,Saint Paul,MN,44.9949,-93.1812
+5121957510,17,173328,One BR - Whether you choose V2 or Victoria Park Apartments.,1468,1,1,781,1,1,,Saint Paul,MN,44.9331,-93.1214
+5121946660,5,175005,"Two BR, Two BA, safe neighborhood",1695,2,2,1138,0,0,,Inver Grove Heights,MN,44.8397,-93.0769
+5122002935,18,174020,"Apartment only for $1,353/mo. You Can Stop Looking Now!",1353,1,1,691,0,0,,Saint Paul,MN,44.8896,-92.9188
+5121973430,16,173665,"Great Central Location Studio, One BA",1179,3,1,668,0,0,,Saint Paul,MN,44.9661,-93.1965
+5121969481,8,173160,"Spacious Two BR, One BA",1420,2,1,920,0,0,,Saint Paul,MN,45.0794,-93.1872
+5121966568,19,174020,"Apartment only for $1,275/mo. You Can Stop Looking Now!",1275,1,1,654,0,0,,Saint Paul,MN,44.9335,-93.0834
+5121964450,3,174020,Apartment in great location. Pet OK!,1495,4,1,1951,1,1,,Saint Paul,MN,44.9573,-93.0515
+5121981762,2,174020,Welcome to the newly remodeled Terra Pointe Apartments.,1135,2,1,945,1,1,,Saint Paul,MN,44.9408,-93.0065
+5121980452,12,173902,Welcome to Charlton West Apartments.,1525,3,1,1150,0,0,,Saint Paul,MN,44.8935,-93.1084
+5121972730,18,173665,Find your Apartments. Pet OK!,1014,1,1,726,1,1,,Saint Paul,MN,44.9949,-93.1812
+5121967751,26,174020,"Bright St Paul, Two BR, Two BA for rent",1555,2,2,1042,0,0,,Saint Paul,MN,45.0143,-93.0263
+5121950360,24,174020,Convenient location Studio One BA for rent,1211,2,1,454,0,0,,Saint Paul,MN,44.9701,-93.0821
+5121945271,22,172866,Two BR Apartment - With renovated loft-like floor plans.,862,2,1,931,0,0,,Rosemount,MN,44.7469,-93.0751
+5122202134,22,174358,Two BR Apartment - When you make Summit Ridge your home.,875,2,2,1045,0,0,,Moorhead,MN,46.8901,-96.7447
+5122187809,1,174783,"Welcome in beautiful Sartell, Minnesota!",1150,2,1,1286,0,0,,Saint Cloud,MN,45.5336,-94.2098
+5122176536,24,456959,"Welcome to on First, Rochester s premiere luxurious apartments. Pet OK!",1305,1,1,668,1,1,,Rochester,MN,43.9997,-92.4918
+5122135026,3,486284,"Gorgeous Minneapolis, Two BR, Two BA. Pet OK!",1200,2,2,1200,1,1,,Minneapolis,MN,44.8261,-93.3781
+5121984725,5,175005,One BR Apartment in St Paul,1210,1,1,850,0,0,,Saint Paul,MN,44.8475,-93.1496
+5121950154,25,174020,Studio Apartment in Quiet Building - St Paul,1366,3,1,561,1,1,,Saint Paul,MN,44.9701,-93.0821
+5122160195,17,174899,Two BR Apartment in Duluth. Pet OK!,1250,2,2,1115,1,1,,Duluth,MN,46.8374,-92.2014
+5122143909,15,174154,The Best of the Best in the City of Minneapolis! Save Big!,1585,2,2,1107,0,0,,Minneapolis,MN,45.0477,-93.4259
+5122093046,8,172866,"Move-in condition, One BR One BA. $845/mo",845,1,1,745,0,0,,Minneapolis,MN,44.8761,-93.2788
+5122091801,10,174154,Apartment in great location,1285,2,2,980,0,0,,Minneapolis,MN,45.0082,-93.3393
+5122077881,25,486053,Studio in Minneapolis,1692,2,1,472,0,0,,Minneapolis,MN,44.9757,-93.2585
+5122073387,27,174066,Four BR Apartment - Located in the heart of Minneapolis MN.,3400,4,4,1715,0,0,,Minneapolis,MN,44.9809,-93.2263
+5122002409,12,174020,"Apartment \ Two BR \ 1,105 sq. ft. - convenient location.",1828,2,2,1105,0,0,,Saint Paul,MN,44.8896,-92.9188
+5121993422,18,174020,"St Paul, Great Location, Two BR Apartment.",1231,2,1,1003,1,1,,Saint Paul,MN,44.9053,-92.9233
+5121989928,1,172866,St Paul Value. Pet OK!,1930,3,2,1410,1,1,,Saint Paul,MN,44.7466,-93.2018
+5121973528,1,173665,"Charming Studio, One BA",1325,2,1,687,0,0,,Saint Paul,MN,44.9661,-93.1965
+5121949220,3,174020,Two BR - Welcome to Park Apartments.,1095,2,1,975,0,0,,Saint Paul,MN,44.9701,-93.0821
+5121949112,24,174020,"Apartment in quiet area, spacious with big kitchen",1184,1,1,818,0,0,,Saint Paul,MN,44.9701,-93.0821
+5122146659,17,174154,Over 812 sf in Minneapolis. Pet OK!,1575,1,1,812,1,1,,Minneapolis,MN,45.1063,-93.3841
+5122133321,11,486284,"Apartment in quiet area, spacious with big kitchen. Cat OK!",1095,1,1,701,1,1,,Minneapolis,MN,44.8248,-93.3446
+5122123401,9,172866,"Bright Minneapolis, Three BR, Two BA for rent. Cat OK!",2035,3,2,1360,1,0,,Minneapolis,MN,44.874,-93.3439
+5122092120,3,174154,Come in and see our recently renovated apartments. Cat OK!,1069,1,1,850,1,0,,Minneapolis,MN,45.0082,-93.3393
+5122086763,9,172866,"One BR, One BA, safe neighborhood",1018,1,1,650,1,0,,Minneapolis,MN,44.8363,-93.2779
+5122084608,19,174127,One BR Apartment - Large & Bright. Pet OK!,1590,1,1,666,1,1,,Minneapolis,MN,44.9498,-93.3356
+5122074575,21,174066,Beautiful Minneapolis Apartment for rent. Parking Available!,2995,4,4,1732,0,0,,Minneapolis,MN,44.9809,-93.2263
+5122043461,4,125231,"$2,915 / Two BR - Great Deal. MUST SEE. Parking Available!",2915,2,2,1100,0,0,,Minneapolis,MN,44.9855,-93.2719
+5122005863,11,174154,Live inspired from your luxurious apartment nestled in nature.,1490,2,2,1048,1,1,,Hopkins,MN,44.9525,-93.4267
+5121991278,23,172866,"Over 1,175 sf in St Paul",1790,2,2,1175,0,0,,Saint Paul,MN,44.7466,-93.2018
+5121991179,3,172866,"Move-in condition, Three BR Two BA",1920,3,2,1410,0,0,,Saint Paul,MN,44.7466,-93.2018
+5121939341,18,174020,"Two BR, Two BA, safe neighborhood. Parking Available!",1178,2,2,1002,1,1,,Cottage Grove,MN,44.8407,-92.8923
+5122204112,1,174358,You'll find a convenient setting with the Stoneview Apartments.,775,3,2,1035,0,0,,Moorhead,MN,46.8901,-96.7447
+5122203125,7,174358,Two BR Apartment - Large & Bright,820,2,2,1020,0,0,,Moorhead,MN,46.8901,-96.7447
+5122137875,12,174154,Three BR - Welcome to Stonehill Apartments.,1685,3,2,1294,1,0,,Minneapolis,MN,45.0065,-93.4315
+5122132742,17,486284,"Minneapolis - 2bd/Two BA 1,138sqft Apartment for rent",1830,2,2,1138,0,0,,Minneapolis,MN,44.8248,-93.3446
+5122110767,11,174154,Twin Lake North Apartment Homes.,1065,2,1,920,0,0,,Minneapolis,MN,45.0644,-93.3437
+5122101694,22,174154,Apartment in prime location,995,2,1,800,1,0,,Minneapolis,MN,44.9963,-93.38
+5122083321,18,174127,Over 465 sf in Minneapolis,1035,2,1,465,1,1,,Minneapolis,MN,44.9498,-93.3356
+5122063394,9,174127,"Updated building in Uptown, near the Lakes and excellent bus services.",995,1,2,600,1,0,,Minneapolis,MN,44.9471,-93.2885
+5122041696,11,125231,"Apartment only for $1,950/mo. You Can Stop Looking Now!",1950,3,1,699,0,0,,Minneapolis,MN,44.9855,-93.2719
+5122033968,27,174154,Outstanding Opportunity To Live At The Rogers City Club. Pet OK!,1187,1,1,948,1,1,,Rogers,MN,45.1739,-93.568
+5122009732,24,486284,Apartment in great location. Pet OK!,1258,1,1,950,1,1,,Burnsville,MN,44.7321,-93.2882
+5121996992,9,173160,Beautiful Saint Paul Apartment for rent. $940/mo,940,1,1,850,0,0,,Saint Paul,MN,45.08,-93.1408
+5121992004,12,174020,Four BR Apartment - Your authentic lifestyle deserves an extraordinary,1820,4,2,1700,1,1,,Saint Paul,MN,44.9053,-92.9233
+5121990021,18,172866,Studio - Located in the heart of everything has to offer. Pet OK!,1485,2,1,835,1,1,,Saint Paul,MN,44.7466,-93.2018
+5121983713,15,174020,Convenient location One BR One BA for rent. $970/mo,970,1,1,776,0,0,,Saint Paul,MN,44.9408,-93.0065
+5121969042,18,173160,Two BR - Cherry apartments in White Bear Lake.,1230,2,1,990,0,0,,Saint Paul,MN,45.0941,-93.0017
+5121967122,1,173665,Apartment in move in condition in Saint Paul. Parking Available!,1130,1,1,630,1,1,,Saint Paul,MN,44.9809,-93.1765
+5121958374,12,173328,962 sq. ft. One BR - in a great area. Pet OK!,1403,1,1,962,1,1,,Saint Paul,MN,44.9331,-93.1214
+5121953571,25,174020,"Lovely St Paul, Studio, One BA",1219,1,1,425,1,1,,Saint Paul,MN,44.9701,-93.0821
+5122059519,14,174127,"Lovely Minneapolis, Studio, One BA",1131,2,1,587,0,0,,Minneapolis,MN,44.9387,-93.2533
+5122045036,21,125231,"Attractive Two BR, Two BA",3215,2,2,1178,0,0,,Minneapolis,MN,44.9855,-93.2719
+5122033653,22,486284,"Apartment in quiet area, spacious with big kitchen. Pet OK!",1358,3,2,1259,1,1,,Prior Lake,MN,44.6839,-93.399
+5122025053,19,486284,Eden Prairie Value. Pet OK!,1180,1,1,725,1,1,,Eden Prairie,MN,44.8602,-93.4481
+5122021877,8,486284,"Charming One BR, One BA",1595,1,1,870,1,1,,Eden Prairie,MN,44.8602,-93.4481
+5121966792,17,173665,Two BA \ Apartment - ready to move in.,1715,2,1.5,1257,1,1,,Saint Paul,MN,44.9809,-93.1765
+5121953992,25,174020,Average Rent $930 a month - That's a STEAL!,930,2,1,352,1,0,,Saint Paul,MN,44.9701,-93.0821
+5122157120,22,174899,Apartment for rent in Duluth. $650/mo,650,0,1,400,0,0,,Duluth,MN,46.7724,-92.1249
+5122082102,22,174127,Top Floor One BR for! kes! Indoor Pool & Fitness Center,1155,1,1,750,1,0,,Minneapolis,MN,44.9498,-93.3356
+5122042722,1,125231,Minneapolis Luxurious Studio + 1,1680,3,1,520,0,0,,Minneapolis,MN,44.9855,-93.2719
+5122040029,22,125231,Pet Friendly 2+1.50 Apartment in Minneapolis,2105,2,1.5,813,0,0,,Minneapolis,MN,44.9855,-93.2719
+5122024647,4,486284,"Lease Spacious 2+2. Approx 1,072 sf of Living Space!",1403,2,2,1072,0,0,,Eden Prairie,MN,44.8602,-93.4481
+5121986381,8,172866,Over 460 sf in St Paul,840,1,1,460,1,1,,Saint Paul,MN,44.8046,-93.1967
+5121973634,3,173665,"1,188 sq. ft. - in a great area.",2174,2,2,1188,0,0,,Saint Paul,MN,44.9661,-93.1965
+5121968317,18,174020,Two BR Apartment in Quiet Building - St Paul,1555,2,2,1142,0,0,,Saint Paul,MN,45.0143,-93.0263
+5121963371,27,173902,St Paul - must see to believe.,1050,1,1,800,0,0,,Saint Paul,MN,44.9346,-93.1646
+5121956841,24,173328,Outstanding Opportunity To Live At The Saint Paul City Club,1367,1,1,623,1,1,,Saint Paul,MN,44.9331,-93.1214
+5122201694,25,174358,Moorhead - superb Apartment nearby fine dining. Single Car Garage!,820,2,2,1015,0,0,,Moorhead,MN,46.8901,-96.7447
+5122183186,27,456959,Outstanding Opportunity To Live At The Rochester City Club,1500,1,1,725,0,0,,Rochester,MN,44.013,-92.4215
+5122176759,27,456959,"Welcome to on First, Rochester s premiere luxurious apartments.",1375,1,1,744,0,0,,Rochester,MN,43.9997,-92.4918
+5122147106,10,174154,"Great Central Location One BR, One BA",1545,1,1,779,0,0,,Minneapolis,MN,45.1063,-93.3841
+5122139313,10,174154,"Apartment, One BA - come and see this one.",1220,1,1,700,1,1,,Minneapolis,MN,45.0065,-93.4315
+5122083342,14,174127,"Apartment only for $2,475/mo. You Can Stop Looking Now. Single Car Garage!",2475,2,2,1092,1,1,,Minneapolis,MN,44.9498,-93.3356
+5122039415,9,125231,You already know it's the most vibrant neighborhood in Minneapolis.,1925,1,1,706,0,0,,Minneapolis,MN,44.9855,-93.2719
+5121975578,25,174020,"Attractive Two BR, Two BA. Single Car Garage!",2400,2,2,1101,0,0,,Saint Paul,MN,45.0702,-92.9529
+5121975537,6,174020,Walking distance to shopping & restaurants.,2800,2,2,1212,0,0,,Saint Paul,MN,45.0702,-92.9529
+5121975410,3,174020,"Move-in condition, Two BR Two BA",2350,2,2,1101,0,0,,Saint Paul,MN,45.0702,-92.9529
+5121958651,12,173328,Convenient location Two BR Two BA for rent,2030,2,2,1066,1,1,,Saint Paul,MN,44.9331,-93.1214
+5121957986,22,173328,"Apartment only for $1,195/mo. You Can Stop Looking Now!",1195,1,1,623,1,1,,Saint Paul,MN,44.9331,-93.1214
+5122204963,1,173124,Welcome to South Beach Apartment Homes!,965,1,1,747,0,0,,Bemidji,MN,47.5046,-94.8577
+5122184236,7,456959,Welcome to Eastwood Ridge!,1385,2,2,1005,1,1,,Rochester,MN,44.013,-92.4215
+5122124578,18,172866,"Two BR, Two BA, safe neighborhood. Pet OK!",1750,2,2,1300,1,1,,Minneapolis,MN,44.874,-93.3439
+5122110284,23,174154,Average Rent $815 a month - That's a STEAL. Cat OK!,815,1,1,750,1,0,,Minneapolis,MN,45.0644,-93.3437
+5122101207,24,174154,"Bright Minneapolis, Two BR, One BA for rent",1135,2,1,946,0,0,,Minneapolis,MN,44.9963,-93.38
+5122076832,4,486053,Apartment in prime location,1605,2,1,616,0,0,,Minneapolis,MN,44.9757,-93.2585
+5122042472,19,125231,Prominence Apartments Two BR Luxury Apartment Homes. Parking Available!,3185,2,2,1284,0,0,,Minneapolis,MN,44.9855,-93.2719
+5122041612,8,125231,"$3,230/mo - Two BR - convenient location.",3230,2,2,1302,0,0,,Minneapolis,MN,44.9855,-93.2719
+5122003944,2,173160,"Attractive Two BR, One BA. Single Car Garage!",1216,2,1,850,1,1,,Anoka,MN,45.2924,-93.4325
+5121991148,6,172866,Two BR - Remington Cove Apartments is the newest upscale.,1696,2,2,1147,0,0,,Saint Paul,MN,44.7466,-93.2018
+5121983761,15,174020,"Gorgeous St Paul, One BR, One BA. Single Car Garage!",950,1,1,776,0,0,,Saint Paul,MN,44.9408,-93.0065
+5121972906,1,173665,"Welcome to, luxurious apartments and townhomes!",1545,1,1,921,1,1,,Saint Paul,MN,44.9661,-93.1965
+5121968152,7,174020,"Apartment in quiet area, spacious with big kitchen",935,1,1,728,0,0,,Saint Paul,MN,45.0143,-93.0263
+5121966494,9,174020,The Best of the Best in the City of Saint Paul! Save Big!,799,1,1,646,0,0,,Saint Paul,MN,44.9335,-93.0834
+5121953385,24,174020,One BR Apartment - In the heart of vibrant Lowertown.,1977,1,1,1467,0,0,,Saint Paul,MN,44.9701,-93.0821
+5121952593,26,174020,"Average Rent $1,332 a month - That's a STEAL!",1332,1,1,552,1,1,,Saint Paul,MN,44.9701,-93.0821
+5121951729,24,174020,Convenient location One BR One BA for rent. Single Car Garage!,1375,1,1,671,0,0,,Saint Paul,MN,44.9701,-93.0821
+5121943776,5,486284,One BR Apartment - Invented with you in mind.,1415,1,1,845,1,0,,Lakeville,MN,44.6526,-93.2482
+5122205526,20,174075,One BR Apartment - Large & Bright. Single Car Garage!,575,1,1,725,0,0,,Crookston,MN,47.7743,-96.6064
+5122161661,3,174899,Apartment in prime location. Single Car Garage!,795,1,1,748,0,0,,Duluth,MN,46.8374,-92.2014
+5122123523,25,172866,"Cornelia offers 1, 1 Den, 2, 2 Den & Penthouse plans.",1530,1,1,824,1,0,,Minneapolis,MN,44.874,-93.3439
+5122109367,12,174154,Two BR Condo - Eden Park Apartments is nestled in the heart of Brooklyn,1115,2,1,945,0,0,,Minneapolis,MN,45.0644,-93.3437
+5122109249,11,174154,Two BR Condo - Eden Park Apartments is nestled in the heart of Brooklyn,1095,2,1,905,0,0,,Minneapolis,MN,45.0644,-93.3437
+5122099004,7,174154,"One BR \ 550 sq. ft. \ $1,030/mo - convenient location.",1030,1,1,550,0,0,,Minneapolis,MN,44.953,-93.3848
+5122091953,6,174154,"Spacious One BR, One BA",995,1,1,660,0,0,,Minneapolis,MN,45.0082,-93.3393
+5122078466,1,174127,The End offers rental flats.,2275,2,2,1015,0,0,,Minneapolis,MN,44.9498,-93.3356
+5122062015,5,174127,Newly Renovated One BR in Lyn Lake Neighborhood,999,1,1,650,1,1,,Minneapolis,MN,44.9471,-93.2885
+5122042869,20,125231,"Apartment in quiet area, spacious with big kitchen. Parking Available!",1946,2,1,817,0,0,,Minneapolis,MN,44.9855,-93.2719
+5122026600,5,486284,Eden Prairie Luxurious 1 + 1. Pet OK!,1200,1,1,725,1,1,,Eden Prairie,MN,44.8602,-93.4481
+5122024872,21,486284,"Attractive Two BR, Two BA. Parking Available!",1676,2,2,1090,1,1,,Eden Prairie,MN,44.8602,-93.4481
+5122005993,26,174154,Live inspired from your luxurious apartment nestled in nature.,1405,1,1,893,0,0,,Hopkins,MN,44.9525,-93.4267
+5122005924,12,174154,Live inspired from your luxurious apartment nestled in nature. Pet OK!,1335,1,1,933,1,1,,Hopkins,MN,44.9525,-93.4267
+5121989371,14,172866,Studio - Located in the heart of everything has to offer. Parking Available!,1515,2,1,835,1,1,,Saint Paul,MN,44.7466,-93.2018
+5121982751,22,174020,Convenient location Two BR One BA for rent. Single Car Garage!,1095,2,1,915,1,1,,Saint Paul,MN,44.9408,-93.0065
+5121980795,6,173902,Our quiet community offers spacious floorplans with great amenities!,850,1,1,770,0,0,,Saint Paul,MN,44.8935,-93.1084
+5121969974,13,173160,Two BR One BA apartment with a new bathroom. $950/mo,950,2,1,900,0,0,,Saint Paul,MN,45.0794,-93.1872
+5121966375,1,174020,Studio in Saint Paul,1168,2,1,438,0,0,,Saint Paul,MN,44.9335,-93.0834
+5121956731,4,173328,"Saint Paul, prime location Two BR, Apartment. Parking Available!",1799,2,2,1170,1,1,,Saint Paul,MN,44.9331,-93.1214
+5121954594,10,173328,Here is another great listing by John Angell and.,1950,3,1,1400,1,1,,Saint Paul,MN,44.9331,-93.1214
+5121945111,18,172866,Rosemount - superb Apartment nearby fine dining. Pet OK!,1327,1,1,830,1,1,,Rosemount,MN,44.7469,-93.0751
+5122172577,25,456959,"Two BR - $899/mo - 1,008 sq. ft. - must see to believe. Pet OK!",899,2,1,1008,1,1,,Rochester,MN,44.0519,-92.4959
+5122144386,26,174154,"Lease Spacious 2+2. Approx 1,070 sf of Living Space. Pet OK!",1419,2,2,1070,1,1,,Minneapolis,MN,45.0477,-93.4259
+5122086849,24,172866,Prominence Apartments One BR Luxury Apartment Homes. Single Car Garage!,1005,1,1,720,0,0,,Minneapolis,MN,44.8363,-93.2779
+5122084270,11,174127,Prominence Apartments Two BR Luxury Apartment Homes. Single Car Garage!,2690,2,2,1226,1,1,,Minneapolis,MN,44.9498,-93.3356
+5122056186,20,174914,"Lovely Minneapolis, One BR, One BA",1410,1,1,834,0,0,,Minneapolis,MN,44.9411,-93.2216
+5122042940,12,125231,"Charming Two BR, Two BA",3585,2,2,1339,0,0,,Minneapolis,MN,44.9855,-93.2719
+5122033768,2,486284,"Great Central Location Two BR, One BA",995,2,1,990,0,0,,Prior Lake,MN,44.6839,-93.399
+5122002573,14,174020,Over 785 sf in Saint Paul,1491,1,1,785,0,0,,Saint Paul,MN,44.8896,-92.9188
+5121998051,26,173160,Outstanding Opportunity To Live At The St Paul City Club,1190,1,1,750,1,1,,Saint Paul,MN,45.08,-93.1408
+5121996890,21,173160,Two Spacious BR in Saint Paul,1110,2,1,850,0,0,,Saint Paul,MN,45.08,-93.1408
+5121992556,16,174020,"St Paul, 1,003 sq. ft. Apartment - in a great area. Pet OK!",1248,2,1,1003,1,1,,Saint Paul,MN,44.9053,-92.9233
+5121990767,27,172866,Three BR - Remington Cove Apartments is the newest upscale.,1890,3,2,1622,0,0,,Saint Paul,MN,44.7466,-93.2018
+5121979490,12,174020,"Paul - Wheelock features 1 and Two BR apartments for rent in Saint Paul, MN.",1079,2,1,900,1,1,,Saint Paul,MN,45.0001,-93.0831
+5121972155,9,173665,Super Cute! Apartment for Rent!,1170,2,1,950,1,1,,Saint Paul,MN,44.9949,-93.1812
+5121968789,9,173160,One BR Apartment - Secluded on a four acre wooded pond in beautiful White,1125,1,1,790,0,0,,Saint Paul,MN,45.0941,-93.0017
+5121966315,7,174020,"Saint Paul, prime location One BR, Apartment",1258,1,1,576,1,1,,Saint Paul,MN,44.9335,-93.0834
+5121951035,15,174020,"St Paul, Great Location, One BR Apartment. Subterranean parking!",1215,1,1,680,1,1,,Saint Paul,MN,44.9701,-93.0821
+5121950549,19,174020,"516 sq. ft. Apartment, One BA - come and see this one.",892,3,1,516,0,0,,Saint Paul,MN,44.9701,-93.0821
+5121949107,25,174020,Two BR Apartment - In the heart of vibrant Lowertown. Pet OK!,2063,2,2,1459,1,1,,Saint Paul,MN,44.9701,-93.0821
+5121946560,18,175005,Apartment in move in condition in Inver Grove Heights,1355,1,1,789,0,0,,Inver Grove Heights,MN,44.8397,-93.0769
+5122133515,13,486284,One BR Apartment in Minneapolis,1075,1,1,701,1,1,,Minneapolis,MN,44.8248,-93.3446
+5122092255,7,174154,The Best of the Best in the City of Minneapolis! Save Big!,1260,2,1,850,1,1,,Minneapolis,MN,45.0082,-93.3393
+5122083709,4,174127,"Move-in condition, Two BR Two BA",2350,2,2,1127,1,1,,Minneapolis,MN,44.9498,-93.3356
+5122078574,18,174127,"Minneapolis, Studio, One BA for rent. Pet OK!",1545,2,1,586,1,1,,Minneapolis,MN,44.9498,-93.3356
+5122044761,24,125231,Minneapolis Value!,3120,2,2,1178,0,0,,Minneapolis,MN,44.9855,-93.2719
+5122042677,8,125231,Apartment in great location. Parking Available!,3060,2,2,1100,0,0,,Minneapolis,MN,44.9855,-93.2719
+5122022420,14,486284,One Spacious BR in Eden Prairie,1505,1,1,740,1,1,,Eden Prairie,MN,44.8602,-93.4481
+5122016922,5,486284,Two BR Apartment - in lovely Burnsville Minnesota offers a peaceful. Pet OK!,1250,2,2,1132,1,1,,Burnsville,MN,44.7685,-93.2796
+5122004865,17,174154,"Amazing Two BR, Two BA for rent",1659,2,2,1403,0,0,,Hopkins,MN,44.9525,-93.4267
+5121992992,11,174020,"St Paul, prime location Three BR, Apartment",1720,3,2.5,1400,1,1,,Saint Paul,MN,44.9053,-92.9233
+5121992836,18,174020,Two Spacious BR in St Paul. Pet OK!,1378,2,2,1024,1,1,,Saint Paul,MN,44.9053,-92.9233
+5121991107,24,172866,This Apartment is a must see. Single Car Garage!,1975,2,2,1276,0,0,,Saint Paul,MN,44.7466,-93.2018
+5121988422,2,175005,Convenient location Two BR One BA for rent. Single Car Garage!,1300,2,1,952,1,1,,Saint Paul,MN,44.8077,-93.1411
+5121986748,8,175005,There you will find the NEW CV2 Apartments.,1995,2,2,1027,0,0,,Saint Paul,MN,44.8077,-93.1411
+5121985781,18,172866,Apartment in prime location,2002,2,2,1305,1,1,,Saint Paul,MN,44.8046,-93.1967
+5121985521,21,172866,One BR Fireplace Townhome apartment.,1219,2,1.5,960,0,0,,Saint Paul,MN,44.8046,-93.1967
+5121983151,8,174020,The Best of the Best in the City of St Paul! Save Big!,1125,2,1,938,1,1,,Saint Paul,MN,44.9408,-93.0065
+5121981676,23,174020,Updated Charming Eastside Three BR,1295,3,1,1040,1,1,,Saint Paul,MN,44.9408,-93.0065
+5121981439,4,173902,Prominence Apartments Two BR Luxury Apartment Homes,1140,2,1,950,1,1,,Saint Paul,MN,44.8935,-93.1084
+5121977715,20,174020,Forest Apartments in.,1200,2,1,836,0,0,,Saint Paul,MN,45.0001,-93.0831
+5121975517,9,174020,Walking distance to shopping & restaurants.,2450,2,2,1101,0,0,,Saint Paul,MN,45.0702,-92.9529
+5121973925,15,173665,One BR Apartment in Saint Paul,1824,1,1,910,0,0,,Saint Paul,MN,44.9661,-93.1965
+5121973789,3,173665,Two BA - come and see this one.,2104,2,2,1169,0,0,,Saint Paul,MN,44.9661,-93.1965
+5121973394,20,173665,Apartment in great location,1359,2,1,560,0,0,,Saint Paul,MN,44.9661,-93.1965
+5121973041,26,173665,Beautiful Saint Paul Apartment for rent. Parking Available!,1525,1,1,840,0,0,,Saint Paul,MN,44.9661,-93.1965
+5121972845,20,173665,Outstanding Opportunity To Live At The St Paul City Club,730,1,1,275,1,1,,Saint Paul,MN,44.9949,-93.1812
+5121969761,5,173160,"Apartment in quiet area, spacious with big kitchen",815,1,1,725,0,0,,Saint Paul,MN,45.0794,-93.1872
+5121965569,15,174020,One BR - Welcome to Parkview Apartments located in a beautiful. $865/mo,865,1,1,600,0,0,,Saint Paul,MN,44.9573,-93.0515
+5121961751,22,173328,John Snell Apartments is Snelling.,795,1,1,700,0,0,,Saint Paul,MN,44.9563,-93.1594
+5121945035,21,172866,The Best of the Best in the City of Rosemount! Save Big!,1556,2,1,1182,1,1,,Rosemount,MN,44.7469,-93.0751
+5122180234,20,456959,Welcome to Eastwood Ridge!,1475,2,2,1044,1,1,,Rochester,MN,44.013,-92.4215
+5122158802,8,174899,Two BR Apartment - Constructed in 1895 in the Renaissance- Revival Style.,873,2,1,953,0,0,,Duluth,MN,46.7386,-92.1699
+5122133911,22,486284,"Charming One BR, One BA",1440,1,1,786,0,0,,Minneapolis,MN,44.8248,-93.3446
+5122133266,20,486284,One BR Apartment - Large & Bright. Subterranean parking!,1240,1,1,815,1,1,,Minneapolis,MN,44.8248,-93.3446
+5122108988,9,174154,Large Gourmet Kitchen!,1189,2,1,850,1,0,,Minneapolis,MN,45.0644,-93.3437
+5122083586,18,174127,"Move-in condition, Studio One BA",1075,2,1,490,1,1,,Minneapolis,MN,44.9498,-93.3356
+5122065523,21,174127,Enjoy the best of Southwest Manor. Single Car Garage!,1115,2,1.5,905,1,0,,Minneapolis,MN,44.9124,-93.3188
+5122065375,8,174127,Small boutique living in the heart of Linden Hills. Subterranean parking!,2325,2,2,1142,1,1,,Minneapolis,MN,44.9124,-93.3188
+5122059659,26,174127,Large One BR apartment- Right off Midtown Greenway!,885,1,1,600,0,0,,Minneapolis,MN,44.9387,-93.2533
+5122043575,1,125231,"Apartment in quiet area, spacious with big kitchen. Parking Available!",3650,2,2,1387,0,0,,Minneapolis,MN,44.9855,-93.2719
+5122027951,10,486284,Two BR Apartment in Quiet Building - Eden Prairie,1385,2,2,1132,0,0,,Eden Prairie,MN,44.8602,-93.4481
+5121953079,12,174020,"Great Central Location One BR, One BA. Cat OK!",1305,1,1,659,1,0,,Saint Paul,MN,44.9701,-93.0821
+5121952157,2,174020,"Spacious One BR, One BA. Pet OK!",1252,1,1,684,1,1,,Saint Paul,MN,44.9701,-93.0821
+5121950619,19,174020,Prominence Apartments Two BR Luxury Apartment Homes,1715,2,2,970,1,1,,Saint Paul,MN,44.9701,-93.0821
+5121950134,24,174020,"Spacious One BR, One BA. Pet OK!",1458,1,1,597,1,1,,Saint Paul,MN,44.9701,-93.0821
+5121949414,11,174020,"St Paul, Studio, One BA for rent",1284,1,1,423,1,1,,Saint Paul,MN,44.9701,-93.0821
+5121946504,8,175005,Two BR Apartment - Welcome to SouthView Gables located in Inver Grove,1440,2,2,1304,0,0,,Inver Grove Heights,MN,44.8397,-93.0769
+5121941117,4,174020,Welcome to Valley Manor Apartments. Single Car Garage!,740,1,1,700,0,0,,Hastings,MN,44.7307,-92.8516
+5122189663,22,174783,Apartment in prime location. Pet OK!,745,2,1,875,1,1,,Saint Cloud,MN,45.5837,-94.2062
+5122106180,18,174154,Minneapolis - superb Apartment nearby fine dining,895,1,1,875,1,0,,Minneapolis,MN,45.0635,-93.3749
+5122096532,6,174154,"Apartment only for $1,359/mo. You Can Stop Looking Now!",1359,2,1,1150,0,0,,Minneapolis,MN,44.953,-93.3848
+5122091529,27,174154,Beautiful Large Two BR Newly Renovated,1269,2,1,950,1,0,,Minneapolis,MN,45.0082,-93.3393
+5122082801,9,174127,"Amazing One BR, One BA for rent",1190,1,1,750,1,0,,Minneapolis,MN,44.9498,-93.3356
+5122074243,25,174066,Studio Apartment in Quiet Building - Minneapolis. Pet OK!,1389,3,1,440,1,1,,Minneapolis,MN,44.9809,-93.2263
+5122042313,26,125231,"Charming Two BR, Two BA",2885,2,2,1241,0,0,,Minneapolis,MN,44.9855,-93.2719
+5122024905,17,486284,"Bright Eden Prairie, Two BR, Two BA for rent. Single Car Garage!",1500,2,2,887,1,1,,Eden Prairie,MN,44.8602,-93.4481
+5122014354,2,486284,Three BR Apartment - Nestled in a quiet residential neighborhood.,1390,3,2,1128,1,1,,Burnsville,MN,44.7685,-93.2796
+5122157929,18,174899,"Duluth, Great Location, Two BR Apartment. Covered parking!",890,2,1,625,0,0,,Duluth,MN,46.7724,-92.1249
+5122137979,17,174154,Welcome to the luxurious apartment home of your dreams.,2095,2,2,1256,1,1,,Minneapolis,MN,45.0065,-93.4315
+5122102245,6,174154,Apartment in great location,1523,2,1,1020,1,1,,Minneapolis,MN,44.9963,-93.38
+5122092823,10,172866,Prominence Apartments One BR Luxury Apartment Homes,895,1,1,745,0,0,,Minneapolis,MN,44.8761,-93.2788
+5122126242,8,172866,"Minneapolis, Apartment, Two BA - convenient location.",1610,2,2,1045,1,0,,Minneapolis,MN,44.874,-93.3439
+5122121827,3,173160,One BR - Heritage Heights offers apartment best with two sparkling pools.,950,1,1,708,1,0,,Minneapolis,MN,45.1649,-93.3203
+5122117625,11,173160,Two BR - SpringBrook Apartments. Pet OK!,1239,2,2,1094,1,1,,Minneapolis,MN,45.095,-93.2572
+5122113672,27,125231,"One BR, One BA, safe neighborhood",999,1,1,750,0,0,,Minneapolis,MN,45.0562,-93.3014
+5122112808,23,125231,Two BR - One BA - Minneapolis - must see to believe.,1209,2,1,950,0,0,,Minneapolis,MN,45.0562,-93.3014
+5122099567,22,174154,Over 780 sf in Minneapolis. Single Car Garage!,1321,1,1,780,0,0,,Minneapolis,MN,44.953,-93.3848
+5122092328,17,174154,HUGE One BR Newly Renovated withGranite Counter Tops and Hardwood Floors,1089,1,1,850,1,0,,Minneapolis,MN,45.0082,-93.3393
+5122080926,17,174127,The End offers rental flats. Pet OK!,2322,2,2,1189,1,1,,Minneapolis,MN,44.9498,-93.3356
+5122073909,17,174066,Pet Friendly 4+4 Apartment in Minneapolis,2800,4,4,1732,0,0,,Minneapolis,MN,44.9809,-93.2263
+5122073835,12,174066,"Gorgeous Minneapolis, Four BR, Four BA. Parking Available!",1865,4,4,877,0,0,,Minneapolis,MN,44.9809,-93.2263
+5122062438,27,174127,Here is another great listing by John Angell and.,950,2,1,800,0,0,,Minneapolis,MN,44.9471,-93.2885
+5122043756,15,125231,"$1,870/mo, One BR - must see to believe. Pet OK!",1870,1,1,786,1,1,,Minneapolis,MN,44.9855,-93.2719
+5122042865,22,125231,Two BA - convenient location.,2765,1,2,932,0,0,,Minneapolis,MN,44.9855,-93.2719
+5122042615,27,125231,"$1,525 / Studio - Great Deal. MUST SEE!",1525,3,1,520,0,0,,Minneapolis,MN,44.9855,-93.2719
+5122036161,20,486284,"Amazing One BR, One BA for rent",1245,1,1,725,0,0,,Shakopee,MN,44.7913,-93.5136
+5122027801,27,486284,Two BR \ Two BA - convenient location. Pet OK!,1706,2,2,1112,1,1,,Eden Prairie,MN,44.8602,-93.4481
+5122027091,6,486284,Apartment in move in condition in Eden Prairie,2323,2,2,1462,1,1,,Eden Prairie,MN,44.8602,-93.4481
+5122027011,8,486284,"Two BR, Two BA, safe neighborhood. Parking Available!",1742,2,2,1119,1,1,,Eden Prairie,MN,44.8602,-93.4481
+5122026700,11,486284,Two BR Apartment in Eden Prairie. Parking Available!,1491,2,2,1293,0,0,,Eden Prairie,MN,44.8602,-93.4481
+5122023765,19,486284,"Average Rent $1,704 a month - That's a STEAL. Single Car Garage!",1704,2,2,1511,0,0,,Eden Prairie,MN,44.8602,-93.4481
+5122012121,8,174154,"Lease Spacious 2+2. Approx 1,064 sf of Living Space!",1361,2,2,1064,1,1,,Elk River,MN,45.3192,-93.5453
+5122006805,24,174154,"Spacious One BR, One BA",1460,1,1,905,1,1,,Hopkins,MN,44.9525,-93.4267
+5122006509,18,174154,Hopkins Value!,960,1,1,605,0,0,,Hopkins,MN,44.9525,-93.4267
+5122006351,2,174154,"$1,548 / Two BR - Great Deal. MUST SEE. Single Car Garage!",1548,2,2,1028,0,0,,Hopkins,MN,44.9525,-93.4267
+5122179196,16,456959,Two Spacious BR in Rochester,1590,2,2,1101,1,1,,Rochester,MN,44.013,-92.4215
+5122158948,16,174899,One BR Apartment - Constructed in 1895 in the Renaissance- Revival Style.,728,1,1,539,0,0,,Duluth,MN,46.7386,-92.1699
+5122148717,24,174154,Beautiful Minneapolis Apartment for rent,1570,1,1,779,0,0,,Minneapolis,MN,45.1063,-93.3841
+5122142973,7,174154,786 sq. ft. - ready to move in.,1227,1,1,786,1,1,,Minneapolis,MN,45.0477,-93.4259
+5122141343,16,174154,"Attractive One BR, One BA. Parking Available!",1300,1,1,1095,1,1,,Minneapolis,MN,45.0065,-93.4315
+5122140553,12,174154,"Gorgeous Minneapolis, Two BR, Two BA",1470,2,2,1000,1,1,,Minneapolis,MN,45.0065,-93.4315
+5122139877,21,174154,Apartment in move in condition in Minneapolis,1025,2,1,500,1,1,,Minneapolis,MN,45.0065,-93.4315
+5122113687,3,125231,Newly Renovated and Updated One BR,979,1,1,750,1,0,,Minneapolis,MN,45.0562,-93.3014
+5122095893,6,172866,Metropolitan Towers offers 9 unique & spacious floor plans.,1018,1,1,950,1,0,,Minneapolis,MN,44.8426,-93.2398
+5122078241,8,174127,Two BR Apartment in Quiet Building - Minneapolis. Dog OK!,1725,2,2,1200,1,1,,Minneapolis,MN,44.9498,-93.3356
+5122073978,5,174066,Four Spacious BR in Minneapolis,2150,4,4,1013,0,0,,Minneapolis,MN,44.9809,-93.2263
+5122060584,2,174127,Minneapolis Luxurious 1 + 1. Pet OK!,1585,1,1,686,1,1,,Minneapolis,MN,44.9471,-93.2885
+5122049356,16,413413,Beautiful Minneapolis Apartment for rent. Cat OK!,850,1,1,508,1,0,,Minneapolis,MN,44.9726,-93.2859
+5122039508,11,125231,"Attractive Two BR, Two BA",2087,2,2,1105,0,0,,Minneapolis,MN,44.9855,-93.2719
+5122033761,22,486284,Apartment only for $984/mo. You Can Stop Looking Now. Pet OK!,984,1,1,731,1,1,,Prior Lake,MN,44.6839,-93.399
+5122031285,12,174154,Two BR Apartment - Transform your of living. Parking Available!,1280,2,1,1058,0,0,,Osseo,MN,45.1219,-93.4572
+5122019479,18,486284,Lease Spacious 2+1. Approx 990 sf of Living Space!,1130,2,1,990,1,1,,Burnsville,MN,44.7685,-93.2796
+5122007733,21,174154,Apartment in great location. Washer/Dryer Hookups!,1245,1,1,783,0,0,,Hopkins,MN,44.9525,-93.4267
+5122003400,2,174154,At Albertville Meadows we offer prices for quality living.,995,2,1,884,1,1,,Albertville,MN,45.2381,-93.6555
+5122000711,24,174020,"One BR, One BA, safe neighborhood",1371,1,1,707,0,0,,Saint Paul,MN,44.8896,-92.9188
+5121999873,13,174020,"At City in Woodbury, MN, enjoy a life of luxurious and convenience.",1621,1,1,915,0,0,,Saint Paul,MN,44.8896,-92.9188
+5121999303,1,174020,"Attractive One BR, One BA. Pet OK!",1020,1,1,625,1,1,,Saint Paul,MN,45.0073,-92.9641
+5121999070,21,174020,One BR Apartment - Cedric's Landing in Oakdale.,1255,1,2,1018,0,0,,Saint Paul,MN,45.0073,-92.9641

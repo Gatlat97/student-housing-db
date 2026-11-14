@@ -1,0 +1,41 @@
+university_id,name,city,state,zip,latitude,longitude,enrollment,housing_cost
+125231,Walden University,Minneapolis,MN,55401,44.98125,-93.265738,9136,11727
+172866,Academy College,Bloomington,MN,55431-1411,44.855722,-93.299809,56,12834
+173045,Augsburg University,Minneapolis,MN,55454,44.966307,-93.240436,2494,16894
+173124,Bemidji State University,Bemidji,MN,56601,47.482341,-94.874119,3139,10462
+173142,Bethany Lutheran College,Mankato,MN,56001,44.166649,-93.990805,669,8620
+173160,Bethel University,Saint Paul,MN,55112,45.057655,-93.161663,1871,12170
+173258,Carleton College,Northfield,MN,55057,44.462318,-93.154666,2086,17586
+173300,Concordia College at Moorhead,Moorhead,MN,56562,46.862482,-96.76749,1829,12530
+173328,Concordia University-Saint Paul,Saint Paul,MN,55104-5494,44.949759,-93.154861,3018,13932
+173452,Martin Luther College,New Ulm,MN,56073-3965,44.30526,-94.472326,725,7900
+173647,Gustavus Adolphus College,Saint Peter,MN,56082-1498,44.323626,-93.972196,1878,11804
+173665,Hamline University,Saint Paul,MN,55104-1284,44.966246,-93.164479,1776,12400
+173902,Macalester College,Saint Paul,MN,55105-1899,44.938565,-93.168053,2131,15760
+173920,Minnesota State University-Mankato,Mankato,MN,56001,44.146712,-93.99945,11703,12420
+174020,Metropolitan State University,Saint Paul,MN,55106-5000,44.957256,-93.074361,5616,14992
+174066,University of Minnesota-Twin Cities,Minneapolis,MN,55455-0213,44.972851,-93.235464,31855,13856
+174075,University of Minnesota-Crookston,Crookston,MN,56716-5001,47.802536,-96.606188,1729,11024
+174127,Minneapolis College of Art and Design,Minneapolis,MN,55404,44.956988,-93.274705,705,13360
+174154,Herzing University-Minneapolis,St. Louis Park,MN,55426,44.975225,-93.404863,740,9023
+174233,University of Minnesota-Duluth,Duluth,MN,55812,46.817126,-92.084385,7336,11110
+174251,University of Minnesota-Morris,Morris,MN,56267,45.589775,-95.899729,936,11302
+174358,Minnesota State University Moorhead,Moorhead,MN,56563,46.867153,-96.759532,3072,10994
+174437,North Central University,Minneapolis,MN,55404-1391,44.968625,-93.261511,709,10054
+174491,University of Northwestern-St Paul,Saint Paul,MN,55113-1598,45.033703,-93.167822,1442,11534
+174525,Oak Hills Christian College,Bemidji,MN,56601-8834,47.425836,-94.901503,75,10326
+174747,College of Saint Benedict,Saint Joseph,MN,56374,45.561792,-94.319888,1370,12550
+174783,Saint Cloud State University,Saint Cloud,MN,56301-4498,45.553227,-94.152657,5088,10596
+174792,Saint Johns University,Collegeville,MN,56321,45.580075,-94.393621,1395,12430
+174817,Saint Mary's University of Minnesota,Winona,MN,55987-1399,44.044736,-91.695449,1073,11200
+174844,St Olaf College,Northfield,MN,55057-1098,44.461529,-93.182039,3093,13630
+174862,Crown College,Saint Bonifacius,MN,55375-9001,44.885393,-93.743019,796,10850
+174899,The College of Saint Scholastica,Duluth,MN,55811-4199,46.816082,-92.106134,1765,11830
+174914,University of St Thomas,Saint Paul,MN,55105-1078,44.943439,-93.188986,6245,14969
+175005,St Catherine University,Saint Paul,MN,55105,44.924926,-93.183761,2473,12188
+175078,Southwest Minnesota State University,Marshall,MN,56258-5468,44.45373,-95.759548,2315,11028
+175272,Winona State University,Winona,MN,55987-5838,44.046159,-91.643723,5144,9654
+413413,Capella University,Minneapolis,MN,55402-3389,44.976286,-93.268796,18364,10229
+456959,University of Minnesota-Rochester,Rochester,MN,55904,44.022339,-92.463471,568,13994
+486053,Bethlehem College & Seminary,Minneapolis,MN,55415-1793,44.968872,-93.255399,117,7000
+486284,Bethany Global University,Bloomington,MN,55439,44.795501,-93.371754,81,11928
