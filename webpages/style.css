@@ -1,6 +1,6 @@
 body {
     margin: 0 10%;
-    background-color: purple;
+    background-color: rgb(102, 99, 99);
 }
 
 p{
@@ -92,4 +92,11 @@ a{
     align-items: center;
     margin: 20px;
     gap: 10px;
+}
+.housing-option {
+    padding: 15px 0;
+}
+
+.housing-option hr {
+    margin: 15px 0;
 }

@@ -18,5 +18,17 @@
         </nav>
         <h1>Find Roommates</h1>
         <p>This is the roommates page where you will be able to find roommates based on their description of their every day life.</p>
+        <form method="GET" action="">
+            <label for="keyword">Filter roommates by any keyword:</label>
+
+            <input
+                type="text"
+                id="keyword"
+                name="keyword"
+                placeholder="Enter keywords here"
+            >
+
+            <button type="submit">Search</button>
+        </form>
     </div></body>
 </html>

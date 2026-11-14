@@ -21,7 +21,7 @@
             This page gives you the overview of the project and will allow you to navigate to the other pages of the project.
         </p>
         <div class="button-container">
-            <button type="button" onclick="window.location.href='housing.php'">Find or Add a House for Rent</button>
+            <button type="button" onclick="window.location.href='housing.php'">Find Houses for Rent</button>
             <button type="button" onclick="window.location.href='roommates.php'">Find a Roommate</button>
             <button type="button" onclick="window.location.href='profile.php'">View Your Profile</button>
         </div>
