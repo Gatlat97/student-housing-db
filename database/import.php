@@ -1,23 +1,97 @@
-
 <?php
 
 mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
 
 // Database connection
-$servername = "localhost";
-$username = "root";
-$password = "Hunter52105";
-$dbname = "final_project";
+// The password lives in db_config.php, which is listed in .gitignore
+// so it never gets pushed to GitHub. Each teammate keeps their own copy.
+require __DIR__ . "/db_config.php";   // defines $servername, $username, $password, $dbname
+
 $conn = new mysqli($servername, $username, $password, $dbname);
 $conn->set_charset("utf8mb4");
+
+// CSV file name (without .csv) => table name in our database.
+// The CSVs use plural names; our tables use singular names.
+// sql.csv and summary.csv are not table data, so they are left out on purpose.
+$tableMap = [
+    "amenities"         => "amenity",
+    "landlords"         => "landlord",
+    "listing_amenities" => "listing_amenity",
+    "listings"          => "listing",
+    "match_requests"    => "match_request",
+    "messages"          => "message",
+    "preferences"       => "preferences",
+    "reviews"           => "review",
+    "saved_listings"    => "saved_listing",
+    "students"          => "student",
+    "universities"      => "university",
+    "users"             => "user",
+];
+
+// CSV column name => our column name, for columns that are simply named differently.
+$columnRename = [
+    "match_request" => ["date" => "request_date"],
+    "message"       => ["timestamp" => "sent_at"],
+];
+
+// In the CSVs, landlords and students have their own ID (landlord_id, student_id)
+// plus a user_id. In our design they are subtypes of user, so user_id IS their
+// primary key and the separate IDs don't exist. These columns are left out.
+$dropColumns = [
+    "landlord" => ["landlord_id"],
+    "student"  => ["student_id"],
+];
+
+// Because of that, any CSV column holding a landlord_id or student_id must be
+// translated to the matching user_id before it goes into our tables.
+// table => [column => which ID map to use]
+$translateColumns = [
+    "listing"       => ["landlord_id" => "landlord"],
+    "preferences"   => ["student_id"  => "student"],
+    "review"        => ["student_id"  => "student"],
+    "saved_listing" => ["student_id"  => "student"],
+    // ASSUMPTION: roommate requests are between students, so these hold student_ids.
+    "match_request" => ["sender_id" => "student", "receiver_id" => "student"],
+    // ASSUMPTION: messages can be student <-> landlord, so these already hold user_ids
+    // and are not translated.
+];
+
+// Reads one CSV and returns [fromColumn value => toColumn value],
+// e.g. landlord_id => user_id from landlords.csv.
+function readIdMap(string $path, string $fromColumn, string $toColumn): array
+{
+    $file = fopen($path, "r");
+    if (!$file) {
+        throw new Exception("Unable to open " . basename($path));
+    }
+
+    $headers = fgetcsv($file, 0, ",", '"', "");
+    $headers[0] = preg_replace('/^\xEF\xBB\xBF/', '', $headers[0]);
+    $headers = array_map(fn($h) => strtolower(trim($h)), $headers);
+
+    $from = array_search($fromColumn, $headers, true);
+    $to   = array_search($toColumn, $headers, true);
+    if ($from === false || $to === false) {
+        fclose($file);
+        throw new Exception(basename($path) . " needs columns $fromColumn and $toColumn");
+    }
+
+    $map = [];
+    while (($row = fgetcsv($file, 0, ",", '"', "")) !== false) {
+        if (count($row) === 1 && trim($row[0]) === "") {
+            continue;
+        }
+        $map[trim($row[$from])] = trim($row[$to]);
+    }
+    fclose($file);
+    return $map;
+}
 
 echo "<h2>Database CSV Import</h2>";
 
 try {
 
-    // --------------------------------------------------
     // 1. Find all CSV files in this directory
-    // --------------------------------------------------
 
     $csvFiles = glob(__DIR__ . "/*.csv");
 
@@ -45,8 +119,10 @@ try {
 
     foreach ($csvFiles as $file) {
 
-        $tableName = pathinfo($file, PATHINFO_FILENAME);
-        $key = strtolower($tableName);
+        $csvName = strtolower(pathinfo($file, PATHINFO_FILENAME));
+
+        // Translate the CSV name to our table name; fall back to the CSV name itself
+        $key = strtolower($tableMap[$csvName] ?? $csvName);
 
         if (isset($databaseTables[$key])) {
             $actualTable = $databaseTables[$key];
@@ -62,9 +138,7 @@ try {
         throw new Exception("No CSV files matched database tables.");
     }
 
-    // --------------------------------------------------
     // 2. Get database column names
-    // --------------------------------------------------
 
     $columnResult = $conn->query("
         SELECT TABLE_NAME, COLUMN_NAME
@@ -80,9 +154,7 @@ try {
             $row['COLUMN_NAME'];
     }
 
-    // --------------------------------------------------
     // 3. Find foreign key dependencies
-    // --------------------------------------------------
 
     $foreignKeys = $conn->query("
         SELECT TABLE_NAME, REFERENCED_TABLE_NAME
@@ -112,9 +184,7 @@ try {
         }
     }
 
-    // --------------------------------------------------
     // 4. Sort tables by dependency order
-    // --------------------------------------------------
 
     $remaining = array_fill_keys(array_keys($files), true);
     $importOrder = [];
@@ -155,9 +225,7 @@ try {
         }
     }
 
-    // --------------------------------------------------
     // 5. Display import order
-    // --------------------------------------------------
 
     echo "<h3>Import Order</h3><ol>";
 
@@ -167,9 +235,39 @@ try {
 
     echo "</ol>";
 
-    // --------------------------------------------------
-    // 6. Import each CSV file
-    // --------------------------------------------------
+    // 6. Empty the tables first, so the script can be rerun safely.
+    // Without this, a second run would fail on duplicate primary keys.
+    // Foreign key checks are switched off only while emptying, because
+    // TRUNCATE refuses to empty a parent table that child tables point to.
+
+    $conn->query("SET FOREIGN_KEY_CHECKS = 0");
+
+    foreach (array_reverse($importOrder) as $table) {
+        $conn->query("TRUNCATE TABLE `" . str_replace("`", "``", $table) . "`");
+    }
+
+    $conn->query("SET FOREIGN_KEY_CHECKS = 1");
+
+    echo "<p>Emptied " . count($importOrder) . " tables before importing.</p>";
+
+    // Build the landlord_id => user_id and student_id => user_id lookups
+    $idMaps = [
+        "landlord" => readIdMap(__DIR__ . "/landlords.csv", "landlord_id", "user_id"),
+        "student"  => readIdMap(__DIR__ . "/students.csv",  "student_id",  "user_id"),
+    ];
+
+    foreach ($idMaps as $name => $map) {
+        $same = 0;
+        foreach ($map as $old => $new) {
+            if ((string)$old === (string)$new) {
+                $same++;
+            }
+        }
+        echo "<p>$name ID map: " . count($map) . " entries, " .
+            "$same where the old ID already equals user_id.</p>";
+    }
+
+    // 7. Import each CSV file
 
     $totalImported = 0;
 
@@ -206,12 +304,26 @@ try {
             $columnLookup[strtolower($column)] = $column;
         }
 
+        // $plan lists, for each column we insert, which CSV position it comes from
+        // and which ID map (if any) translates its values.
         $columns = [];
+        $plan = [];
 
-        foreach ($headers as $header) {
+        $drop      = $dropColumns[$table] ?? [];
+        $rename    = $columnRename[$table] ?? [];
+        $translate = $translateColumns[$table] ?? [];
+
+        foreach ($headers as $csvIndex => $header) {
 
             $header = trim($header);
             $key = strtolower($header);
+
+            if (in_array($key, $drop, true)) {
+                continue;   // e.g. landlord_id in landlords.csv
+            }
+
+            $mapName = $translate[$key] ?? null;   // look up by the CSV name
+            $key = strtolower($rename[$key] ?? $key);
 
             if (!isset($columnLookup[$key])) {
                 fclose($file);
@@ -222,6 +334,7 @@ try {
             }
 
             $columns[] = $columnLookup[$key];
+            $plan[] = [$csvIndex, $mapName];
         }
 
         if (count($columns) !== count(array_unique($columns))) {
@@ -285,7 +398,7 @@ try {
                     continue;
                 }
 
-                if (count($data) !== count($columns)) {
+                if (count($data) !== count($headers)) {
                     throw new Exception(
                         "Incorrect number of fields on CSV line " .
                         $lineNumber
@@ -293,16 +406,27 @@ try {
                 }
 
                 // Copy CSV data into bound parameters
-                foreach ($data as $index => $value) {
+                foreach ($plan as $index => [$csvIndex, $mapName]) {
 
-                    $value = trim($value);
+                    $value = trim($data[$csvIndex]);
 
-                    // Convert empty numeric fields to NULL
+                    // Convert empty fields to NULL
                     if ($value === "") {
                         $values[$index] = null;
-                    } else {
-                        $values[$index] = $value;
+                        continue;
                     }
+
+                    // Translate landlord_id / student_id to user_id
+                    if ($mapName !== null) {
+                        if (!isset($idMaps[$mapName][$value])) {
+                            throw new Exception(
+                                "$value in column {$headers[$csvIndex]} has no matching $mapName"
+                            );
+                        }
+                        $value = $idMaps[$mapName][$value];
+                    }
+
+                    $values[$index] = $value;
                 }
 
                 $stmt->execute();
@@ -332,9 +456,7 @@ try {
             htmlspecialchars($table) . ".</p>";
     }
 
-    // --------------------------------------------------
-    // 7. Finish
-    // --------------------------------------------------
+    // 8. Finish
 
     echo "<hr>";
     echo "<h2 style='color:green;'>Import Complete!</h2>";
