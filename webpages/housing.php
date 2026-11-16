@@ -1,8 +1,8 @@
 <?php
     $servername = "localhost";
     $username = "root";
-    $password = "Hunter52105";
-    $dbname = "final_project";
+    $password = "NewPassword123!";
+    $dbname = "student_housing";
 
     $conn = new mysqli($servername, $username, $password, $dbname);
 
@@ -36,7 +36,7 @@
     }
 
     // Search the selected attribute
-    $sql = "SELECT * FROM listings
+    $sql = "SELECT * FROM listing
             WHERE CAST(`$attribute` AS CHAR) LIKE ?
             ORDER BY listing_id DESC";
 

@@ -6,8 +6,8 @@ session_start();
    ========================= */
 $servername = "localhost";
 $username = "root";
-$password = "Hunter52105";
-$dbname = "final_project";
+$password = "NewPassword123!";
+$dbname = "student_housing";
 $conn = new mysqli($servername, $username, $password, $dbname);
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
