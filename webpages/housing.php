@@ -1,8 +1,5 @@
 <?php
-    $servername = "localhost";
-    $username = "root";
-    $password = "NewPassword123!";
-    $dbname = "student_housing";
+    require __DIR__ . "/../database/db_config.php";
 
     $conn = new mysqli($servername, $username, $password, $dbname);
 
