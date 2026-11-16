@@ -1,9 +1,7 @@
 <?php
 session_start();
 
-/* =========================
-   DATABASE CONNECTION
-   ========================= */
+/* DATABASE CONNECTION */
 $servername = "localhost";
 $username = "root";
 $password = "NewPassword123!";
@@ -13,23 +11,17 @@ if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
 
-/* =========================
-   CREATE STUDENTS TABLE
-   ========================= */
+/* CREATE STUDENTS TABLE */
 
 
-/* =========================
-   HANDLE LOGOUT
-   ========================= */
+/* HANDLE LOGOUT */
 if (isset($_GET['logout'])) {
     session_unset();
     session_destroy();
     header("Location: profile.php");
     exit();
 }
-/* =========================
-   HANDLE LOGIN / ACCOUNT CREATION
-   ========================= */
+/* HANDLE LOGIN / ACCOUNT CREATION */
 $loginError = "";
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
@@ -51,9 +43,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $stmt->execute();
         $result = $stmt->get_result();
 
-        /* =========================
-           ACCOUNT EXISTS
-           ========================= */
+        /* ACCOUNT EXISTS */
         if ($result->num_rows > 0) {
             $student = $result->fetch_assoc();
             // Check password
@@ -71,9 +61,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             } else {
                 $loginError = "Incorrect password.";
             }
-        /* =========================
-           ACCOUNT DOES NOT EXIST
-           ========================= */
+        /* ACCOUNT DOES NOT EXIST */
         } else {
             /*
              * Since the account doesn't exist,
