@@ -46,9 +46,7 @@ h1 + p {
     margin: 0 auto 20px;
 }
 
-/* =========================
-   NAVIGATION TABS
-   ========================= */
+/* NAVIGATION TABS */
 .tabs {
     display: flex;
     width: 100%;
@@ -74,9 +72,7 @@ h1 + p {
     background-color: #3498db;
 }
 
-/* =========================
-   FORMS
-   ========================= */
+/* FORMS */
 form {
     display: flex;
     flex-wrap: wrap;
